@@ -36,3 +36,15 @@ Ete Ganon el que te habla
 El más tigerazo de Gerudo Valley
 Mamahuevazo
 Woooh woooh woooh
+--------------------------------------------------------
+
+Los clave:
+git init
+
+git add .
+
+git commit -m "first commit"
+
+git remote add origin https://github.com/NOMBRE_USUARIO/NOMBRE_PROYECTO.git
+
+git push -u origin master
