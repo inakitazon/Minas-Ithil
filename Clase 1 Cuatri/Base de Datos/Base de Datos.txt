@@ -1,0 +1,17 @@
+-tener mysql workbench
+-verificar el servicio mysql
+-verificar puerto mysql por terminal
+-verificar usuarios, host y permisos por terminal
+-definir una conexion para el servicio en mysql workbench
+-crear un usuario developer en workbench con el rol de DB manager
+-levantar el servicio local
+-verificar el puerto mysql del servidor local, si el ppuerto es igual al del servicio, modificarlo
+-verificar usuarios Host y permisos en el servidor local
+-definir una conexion para el servidor local en mysql workbench
+-crear un usuario con el rol de BDmanager
+-Levantar ambos servicios
+--------------------------
+Puntos 1,2 y 3
+- verificar el servicio mysql. Detener y reiniciar
+- Verificar puerto mysql por terminal
+- Verificar usuarios, host y permisos por terminal

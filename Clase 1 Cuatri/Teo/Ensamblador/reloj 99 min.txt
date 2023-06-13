@@ -1,0 +1,72 @@
+JMP Prepare
+
+Ar: DB 48
+Fin: DB 9
+Int: DB 54
+Cer: DB 0
+FMin: DB 8
+
+Prepare:
+   MOV C, [Fin]
+   ADD C, 49
+   MOV A, B
+   ADD A,48
+   MOV D, 232
+   MOV [D],A
+   INC D
+   MOV [D],A
+   INC D
+   ADD B, 58
+   MOV [D],B
+   INC D
+   MOV [D],A
+   INC D
+   MOV [D],A
+   MOV B,48
+
+SEC1:
+ 
+   MOV D,236 
+   MOV [D], A
+   INC A
+   CMP A,C
+   JNZ SEC1
+   MOV A,[Ar]
+   MOV [D],A
+   
+
+SEC2P:
+  MOV D,235
+  MOV B,[D] 
+
+SEC2:
+   
+   ADD B,1
+   MOV [D],B
+   CMP B, [Int]
+   JNZ SEC1
+   MOV B, [Ar]
+   MOV [D], B
+   
+MIN1P:
+   MOV D,233
+   MOV B,[D]
+MIN1:
+   
+   ADD B,1
+   MOV [D],B
+   CMP B, C
+   JNZ SEC1 
+   MOV B,[Ar]
+   MOV [D],B
+
+MIN2P:
+  MOV D,232
+  MOV B,[D]
+
+MIN2:
+  
+  ADD B,1
+  MOV [D],B
+  CMP B,C
+  JNZ SEC1

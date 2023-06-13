@@ -1,0 +1,17 @@
+Cliente: Clase abstracta de la que se originan 2 tipos de cliente
+	ClienteNormal: hereda de Cliente
+	ClientePremium: hereda de cliente y además incluye un descuento
+Producto: clase que tiene un cola de reservas además de sus otros atributos
+	Cuando un cliente compra un más unidades de un producto de las que hay disponibles, 	
+	se añade a esta cola de reservas la reserva del cliente. Cuando se actualice el stock este producto,
+	se coge la primera reserva de la cola y se efectua la venta. Se van cogiendo reservas hasta que de nuevo no haya stock suficiente.
+Reserva: Clase abstracta de la que se originan 2 tipos de reservas
+	ReservaEnTienda: hereda de Reserva
+	ReservaOnline: hereda de Reserva y además incluye la dirección de envió y los gastos del envío.
+Tienda: clase que contiene un mapa de los productos que ofrece. Cada entrada del mapa se identifica por el código del producto y el propio producto.
+	Tambíen tiene una lista de clientes.
+Oferta: Interfaz
+	OfertaRopa: dado un producto le aplica un 10% del descuento
+Proveedor: Interfaz
+	ProveedorRopa: interfaz encargada de enviar una serie de productos de ropa a la tienda
+	ProveedorMaterialOficina: interfaz encargada de enviar una serie de productos de oficina a la tienda

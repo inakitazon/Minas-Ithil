@@ -1,0 +1,51 @@
+JMP Prepare
+
+N1: DB 3
+F: DB 1
+DI: DB 10
+
+
+Prepare:
+  MOV A,[N1]
+  MOV C,A
+  CMP A,[F]
+  JZ FIN2
+ 
+BUC:
+   DEC C
+   MUL C   
+   CMP C,[F]   
+   JNZ BUC
+
+
+ 
+
+
+FIN:
+  MOV C, A
+  DIV [DI]
+  MOV B, A
+  MOV A,C
+  DIV [DI]
+  MUL [DI]
+  SUB C,A
+  ADD C,48
+  ADD B,48
+  MOV D,232
+  MOV [D], B
+  INC D
+  MOV [D],C
+  JMP END
+
+FIN2:
+  MOV C,[F]
+  ADD C,48
+  MOV D, 232
+  MOV [D], 48
+  INC D
+  ADD A,48
+  MOV [D], C
+  
+
+END:
+  HLT
