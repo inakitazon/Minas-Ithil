@@ -1,0 +1,28 @@
+@startuml
+[*] --> InicioHorariosGrado
+
+InicioHorariosGrado --> RevisarAñoGrado : Revisar año del grado
+RevisarAñoGrado --> RevisarTrimestre : Año del grado verificado
+
+state RevisarTrimestre {
+    [*] --> PrimerTrimestre
+    PrimerTrimestre --> RevisarTrimestre 
+    [*] --> SegundoTrimestre
+    SegundoTrimestre --> RevisarTrimestre
+}
+
+RevisarTrimestre --> RevisarAsignaturas : Trimestre verificado
+
+state RevisarAsignaturas {
+    [*] --> Asignatura1
+    Asignatura1 --> Asignatura2 : Asignatura 1 asignada
+    Asignatura2 --> Asignatura3 : Asignatura 2 asignada
+    Asignatura3 --> Asignatura4 : Asignatura 3 asignada
+    Asignatura4 --> Asignatura5 : Asignatura 4 asignada
+    Asignatura5 --> RevisarAsignaturas : Asignatura 5 asignada
+}
+
+RevisarAsignaturas --> HorarioGradoCompleto : Todas las asignaturas asignadas
+HorarioGradoCompleto --> [*]
+
+@enduml

@@ -1,0 +1,29 @@
+@startuml
+title TimeGuardian - Diagrama de Estados
+
+[*] --> Inicio
+
+state Inicio {
+  [*] --> SeleccionaPantalla
+  SeleccionaPantalla --> Horarios : Horarios Profesor/Grado/Aulas
+}
+
+state Horarios {
+  [*] --> MuestraAsignaturas
+  MuestraOpciones --> ArrastraYSuelta : Usuario arrastra y suelta
+  ArrastraYSuelta --> VerificaConflicto
+  
+  state VerificaConflicto {
+    [*] --> Conflicto : Sí
+    [*] --> SinConflicto : No
+    Conflicto --> NotificaciónConflicto : Notifica conflicto
+    NotificaciónConflicto --> [*]
+    SinConflicto --> PosicionaElementos : Posiciona asignaturas/clases/docente
+    PosicionaElementos --> [*]
+  }
+}
+
+Horarios --> GuardaCambios : Guarda cambios
+GuardaCambios --> [*]
+
+@enduml
