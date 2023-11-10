@@ -1,0 +1,18 @@
+BEGIN
+	DECLARE jname, jdire TEXT;
+    DECLARE exit_loop BOOLEAN DEFAULT FALSE;
+    DECLARE juegos_cursor CURSOR FOR SELECT Nombre, Director FROM reviews;
+    DECLARE CONTINUE HANDLER FOR NOT FOUND SET exit_loop = TRUE;
+    OPEN juegos_cursor;
+    director_loop: LOOP
+    FETCH FROM juegos_cursor INTO jname, jdire;
+    IF exit_loop = TRUE THEN
+    	LEAVE director_loop;
+    	END IF;
+    IF jname = "Metal Gear 3" THEN 
+    	SELECT jdire;
+    END IF;
+    END LOOP director_loop;
+    CLOSE juegos_cursor;
+
+END

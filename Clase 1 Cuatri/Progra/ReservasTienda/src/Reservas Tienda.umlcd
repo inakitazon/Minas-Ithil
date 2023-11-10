@@ -1,0 +1,1439 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.yattasolutions.uml.diagrams.classifier:ClassDiagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com.yattasolutions.diagrams="http://ns.yatta-solutions.com/umllab/diagrams/1.1.0" xmlns:com.yattasolutions.uml.diagrams.classifier="http://ns.yatta-solutions.com/umllab/diagrams/classifier/1.1.0" xmi:id="_JSix8OffEeyhVr8NbeV_Xw">
+  <modelElement href="Reservas%20Tienda.uml#_JSEQ0OffEeyhVr8NbeV_Xw"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_MTeMUOffEeyhVr8NbeV_Xw" targetItem="_MTfacuffEeyhVr8NbeV_Xw" sourceItem="_MTZT0OffEeyhVr8NbeV_Xw"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_MTezYeffEeyhVr8NbeV_Xw" targetItem="_MTfaf-ffEeyhVr8NbeV_Xw" sourceItem="_MTezYOffEeyhVr8NbeV_Xw"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_MTfaceffEeyhVr8NbeV_Xw" targetItem="_MTfai-ffEeyhVr8NbeV_Xw" sourceItem="_MTfacOffEeyhVr8NbeV_Xw"/>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:GeneralizationVisual" xmi:id="_MTpygOffEeyhVr8NbeV_Xw" sourceAnchor="234.0,0.0" targetAnchor="186.0,162.0" superClass="_MTfacuffEeyhVr8NbeV_Xw" subClass="_MUC0EOffEeyhVr8NbeV_Xw">
+    <modelElement href="Reservas%20Tienda.uml#_Jc618OffEeyhVr8NbeV_Xw"/>
+    <bendpoints xmi:id="_pFGko-ffEeyhVr8NbeV_Xw" sourceY="-36" targetX="-28" targetY="503"/>
+    <bendpoints xmi:id="_pFGkpOffEeyhVr8NbeV_Xw" sourceX="28" sourceY="-37" targetY="502"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_MT308OffEeyhVr8NbeV_Xw" targetItem="_MUC0EOffEeyhVr8NbeV_Xw" sourceItem="_MT1_wOffEeyhVr8NbeV_Xw"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_MT_JsOffEeyhVr8NbeV_Xw" targetItem="_MUC0E-ffEeyhVr8NbeV_Xw" sourceItem="_MT5DEOffEeyhVr8NbeV_Xw"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_MUAX0effEeyhVr8NbeV_Xw" targetItem="_MUC0H-ffEeyhVr8NbeV_Xw" sourceItem="_MUAX0OffEeyhVr8NbeV_Xw"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_MUCNAOffEeyhVr8NbeV_Xw" targetItem="_MUC0JOffEeyhVr8NbeV_Xw" sourceItem="_MUAX0uffEeyhVr8NbeV_Xw"/>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:GeneralizationVisual" xmi:id="_MUSEoOffEeyhVr8NbeV_Xw" sourceAnchor="310.0,0.0" targetAnchor="186.0,162.0" superClass="_MTfacuffEeyhVr8NbeV_Xw" subClass="_MUzpEuffEeyhVr8NbeV_Xw">
+    <modelElement href="Reservas%20Tienda.uml#_Jc618effEeyhVr8NbeV_Xw"/>
+    <bendpoints xmi:id="_pFGkp-ffEeyhVr8NbeV_Xw" sourceY="-21" targetX="544" targetY="503"/>
+    <bendpoints xmi:id="_pFGkqOffEeyhVr8NbeV_Xw" sourceX="-544" sourceY="-22" targetY="502"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_MUmNsOffEeyhVr8NbeV_Xw" targetItem="_MUzpEuffEeyhVr8NbeV_Xw" sourceItem="_MUjKYOffEeyhVr8NbeV_Xw"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_MUvXoOffEeyhVr8NbeV_Xw" targetItem="_MUzpGuffEeyhVr8NbeV_Xw" sourceItem="_MUm0wOffEeyhVr8NbeV_Xw"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_MUzCAOffEeyhVr8NbeV_Xw" targetItem="_MUzpKeffEeyhVr8NbeV_Xw" sourceItem="_MUv-sOffEeyhVr8NbeV_Xw"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_MUzpEeffEeyhVr8NbeV_Xw" targetItem="_MUzpLuffEeyhVr8NbeV_Xw" sourceItem="_MUzpEOffEeyhVr8NbeV_Xw"/>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:GeneralizationVisual" xmi:id="_MWN-UOffEeyhVr8NbeV_Xw" sourceAnchor="182.0,0.0" targetAnchor="169.0,85.0" dashed="true" superClass="_MVsZ4OffEeyhVr8NbeV_Xw" subClass="_MW2QcOffEeyhVr8NbeV_Xw">
+    <modelElement href="Reservas%20Tienda.uml#_Jc8EEOffEeyhVr8NbeV_Xw"/>
+    <visualProperties xmi:id="_gOjasOffEeyhVr8NbeV_Xw" position="882.0,1385.0"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_MWttkOffEeyhVr8NbeV_Xw" sourceAnchor="0.0,29.0" targetAnchor="272.0,299.0" target="_MiKIlOffEeyhVr8NbeV_Xw" source="_MW2QcOffEeyhVr8NbeV_Xw">
+    <modelElement href="Reservas%20Tienda.uml#_JdLUoOffEeyhVr8NbeV_Xw"/>
+    <bendpoints xmi:id="_pFGkouffEeyhVr8NbeV_Xw" sourceX="-268" targetX="1" targetY="242"/>
+    <stereotypes xmi:id="_MWttkeffEeyhVr8NbeV_Xw" name="Reference">
+      <modelElement href="Reservas%20Tienda.uml#_JdLUouffEeyhVr8NbeV_Xw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_MWttkuffEeyhVr8NbeV_Xw" text="">
+      <visualProperties xmi:id="_MyMIoOffEeyhVr8NbeV_Xw" position="-48.0,-132.9999999999999"/>
+    </nameVisual>
+    <sourceRole xmi:id="_MWttk-ffEeyhVr8NbeV_Xw" aggregationKind="NONE" name="">
+      <modelElement href="Reservas%20Tienda.uml#_JdLUoeffEeyhVr8NbeV_Xw"/>
+      <visualProperties xmi:id="_MyLhnOffEeyhVr8NbeV_Xw" position="-33.0,2.0"/>
+      <visibility xmi:id="_MWttlOffEeyhVr8NbeV_Xw" label="+"/>
+      <cardinality xmi:id="_MWttleffEeyhVr8NbeV_Xw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_MWttluffEeyhVr8NbeV_Xw" aggregationKind="NONE" name="tienda" navigable="true">
+      <modelElement href="Reservas%20Tienda.uml#_JdD_4-ffEeyhVr8NbeV_Xw"/>
+      <visualProperties xmi:id="_MyMIoeffEeyhVr8NbeV_Xw" position="-60.0,38.0"/>
+      <stereotypes xmi:id="_ZXu-8OgCEeyrdOCi8Lg5_g" name="LegacyStyledElement">
+        <modelElement href="Reservas%20Tienda.uml#_JdD_5OffEeyhVr8NbeV_Xw"/>
+      </stereotypes>
+      <visibility xmi:id="_MWttl-ffEeyhVr8NbeV_Xw" label="~"/>
+      <cardinality xmi:id="_MWttmOffEeyhVr8NbeV_Xw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_MXbfQOffEeyhVr8NbeV_Xw" targetItem="_MXkpMOffEeyhVr8NbeV_Xw" sourceItem="_MXHWMOffEeyhVr8NbeV_Xw"/>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_MXg-0OffEeyhVr8NbeV_Xw" sourceAnchor="64.0,327.0" targetAnchor="305.0,0.0" target="_MXkpMOffEeyhVr8NbeV_Xw" source="_MiKIlOffEeyhVr8NbeV_Xw">
+    <modelElement href="Reservas%20Tienda.uml#_JdMixOffEeyhVr8NbeV_Xw"/>
+    <stereotypes xmi:id="_MXjbE-ffEeyhVr8NbeV_Xw" name="Reference">
+      <modelElement href="Reservas%20Tienda.uml#_JdMixuffEeyhVr8NbeV_Xw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_MXjbEOffEeyhVr8NbeV_Xw" text="">
+      <visualProperties xmi:id="_MyOk4OffEeyhVr8NbeV_Xw" position="2.0,-2.0"/>
+    </nameVisual>
+    <sourceRole xmi:id="_MXjbEeffEeyhVr8NbeV_Xw" aggregationKind="NONE" name="">
+      <modelElement href="Reservas%20Tienda.uml#_JdMixeffEeyhVr8NbeV_Xw"/>
+      <visualProperties xmi:id="_MyN90uffEeyhVr8NbeV_Xw" position="2.0,42.0"/>
+      <visibility xmi:id="_MXjbFeffEeyhVr8NbeV_Xw" label="+"/>
+      <cardinality xmi:id="_MXjbFOffEeyhVr8NbeV_Xw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_MXjbEuffEeyhVr8NbeV_Xw" aggregationKind="NONE" name="productos" navigable="true">
+      <modelElement href="Reservas%20Tienda.uml#_JdGcIOffEeyhVr8NbeV_Xw"/>
+      <visualProperties xmi:id="_MyOk4effEeyhVr8NbeV_Xw" position="-85.0,-98.0"/>
+      <stereotypes xmi:id="_MXkCIuffEeyhVr8NbeV_Xw" name="LegacyStyledElement">
+        <modelElement href="Reservas%20Tienda.uml#_JdGcIuffEeyhVr8NbeV_Xw"/>
+      </stereotypes>
+      <visibility xmi:id="_MXkCIeffEeyhVr8NbeV_Xw" label="+"/>
+      <cardinality xmi:id="_MXkCIOffEeyhVr8NbeV_Xw" label="1" max="1" min="1"/>
+      <qualifierHelper xmi:id="_MXjbFuffEeyhVr8NbeV_Xw">
+        <qualifiers xmi:id="_MXjbF-ffEeyhVr8NbeV_Xw">
+          <modelElement href="Reservas%20Tienda.uml#_JdGcI-ffEeyhVr8NbeV_Xw"/>
+          <visibility xmi:id="_MXkCJOffEeyhVr8NbeV_Xw" label="+"/>
+          <cardinality xmi:id="_MXkCJeffEeyhVr8NbeV_Xw" label="1" max="1" min="1"/>
+          <type xmi:id="_MXkCI-ffEeyhVr8NbeV_Xw" name="int">
+            <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+          </type>
+        </qualifiers>
+      </qualifierHelper>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_MXhl4OffEeyhVr8NbeV_Xw" targetItem="_MXkpUOffEeyhVr8NbeV_Xw" sourceItem="_MXg-0effEeyhVr8NbeV_Xw"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_MXhl4uffEeyhVr8NbeV_Xw" targetItem="_MXkpX-ffEeyhVr8NbeV_Xw" sourceItem="_MXhl4effEeyhVr8NbeV_Xw"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_MXiM8effEeyhVr8NbeV_Xw" targetItem="_MXkpZOffEeyhVr8NbeV_Xw" sourceItem="_MXiM8OffEeyhVr8NbeV_Xw"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_MXiM8-ffEeyhVr8NbeV_Xw" targetItem="_MXkpaeffEeyhVr8NbeV_Xw" sourceItem="_MXiM8uffEeyhVr8NbeV_Xw"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_MXiM9effEeyhVr8NbeV_Xw" targetItem="_MXkpceffEeyhVr8NbeV_Xw" sourceItem="_MXiM9OffEeyhVr8NbeV_Xw"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_MXi0AeffEeyhVr8NbeV_Xw" targetItem="_MXkpduffEeyhVr8NbeV_Xw" sourceItem="_MXi0AOffEeyhVr8NbeV_Xw"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_MXi0A-ffEeyhVr8NbeV_Xw" targetItem="_MXkpe-ffEeyhVr8NbeV_Xw" sourceItem="_MXi0AuffEeyhVr8NbeV_Xw"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_MXi0BeffEeyhVr8NbeV_Xw" targetItem="_MXkpgeffEeyhVr8NbeV_Xw" sourceItem="_MXi0BOffEeyhVr8NbeV_Xw"/>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_MXkCJuffEeyhVr8NbeV_Xw" source="_MXkpMOffEeyhVr8NbeV_Xw">
+    <modelElement href="Reservas%20Tienda.uml#_JdLUo-ffEeyhVr8NbeV_Xw"/>
+    <stereotypes xmi:id="_MXkCJ-ffEeyhVr8NbeV_Xw" name="Reference">
+      <modelElement href="Reservas%20Tienda.uml#_JdL7sOffEeyhVr8NbeV_Xw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_MXkCKOffEeyhVr8NbeV_Xw" text=""/>
+    <sourceRole xmi:id="_MXkCKeffEeyhVr8NbeV_Xw" aggregationKind="NONE" name="">
+      <modelElement href="Reservas%20Tienda.uml#_JdLUpOffEeyhVr8NbeV_Xw"/>
+      <visibility xmi:id="_MXkCKuffEeyhVr8NbeV_Xw" label="+"/>
+      <cardinality xmi:id="_MXkCK-ffEeyhVr8NbeV_Xw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_MXkCLOffEeyhVr8NbeV_Xw" aggregationKind="NONE" name="reservas" navigable="true">
+      <modelElement href="Reservas%20Tienda.uml#_JdEm-effEeyhVr8NbeV_Xw"/>
+      <stereotypes xmi:id="_ZXxbMOgCEeyrdOCi8Lg5_g" name="Generics">
+        <modelElement href="Reservas%20Tienda.uml#_JdFOAOffEeyhVr8NbeV_Xw"/>
+      </stereotypes>
+      <stereotypes xmi:id="_ZXxbMegCEeyrdOCi8Lg5_g" name="LegacyStyledElement">
+        <modelElement href="Reservas%20Tienda.uml#_JdFOAuffEeyhVr8NbeV_Xw"/>
+      </stereotypes>
+      <visibility xmi:id="_MXkCLeffEeyhVr8NbeV_Xw" label="-"/>
+      <cardinality xmi:id="_MXkCLuffEeyhVr8NbeV_Xw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:GeneralizationVisual" xmi:id="_MY6tAOffEeyhVr8NbeV_Xw" sourceAnchor="139.0,0.0" targetAnchor="137.0,85.0" dashed="true" superClass="_MX_f8OffEeyhVr8NbeV_Xw" subClass="_MZ6yluffEeyhVr8NbeV_Xw">
+    <modelElement href="Reservas%20Tienda.uml#_Jc9SNOffEeyhVr8NbeV_Xw"/>
+    <bendpoints xmi:id="_pFGkoOffEeyhVr8NbeV_Xw" sourceY="-33" targetX="152" targetY="37"/>
+    <bendpoints xmi:id="_pFGkoeffEeyhVr8NbeV_Xw" sourceX="-152" sourceY="-32" targetY="38"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_MZpFwOffEeyhVr8NbeV_Xw" sourceAnchor="135.0,63.0" targetAnchor="396.0,0.0" target="_MiKIlOffEeyhVr8NbeV_Xw" source="_MZ6yluffEeyhVr8NbeV_Xw">
+    <modelElement href="Reservas%20Tienda.uml#_JdL7seffEeyhVr8NbeV_Xw"/>
+    <stereotypes xmi:id="_MZ6ykOffEeyhVr8NbeV_Xw" name="Reference">
+      <modelElement href="Reservas%20Tienda.uml#_JdL7s-ffEeyhVr8NbeV_Xw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_MZ6LgOffEeyhVr8NbeV_Xw" text="">
+      <visualProperties xmi:id="_MyMIo-ffEeyhVr8NbeV_Xw" position="-48.0,-11.0"/>
+    </nameVisual>
+    <sourceRole xmi:id="_MZ6LgeffEeyhVr8NbeV_Xw" aggregationKind="NONE" name="">
+      <modelElement href="Reservas%20Tienda.uml#_JdL7suffEeyhVr8NbeV_Xw"/>
+      <visualProperties xmi:id="_MyMIouffEeyhVr8NbeV_Xw" position="2.0,38.0"/>
+      <visibility xmi:id="_MZ6ykuffEeyhVr8NbeV_Xw" label="+"/>
+      <cardinality xmi:id="_MZ6ykeffEeyhVr8NbeV_Xw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_MZ6LguffEeyhVr8NbeV_Xw" aggregationKind="NONE" name="tienda" navigable="true">
+      <modelElement href="Reservas%20Tienda.uml#_JdFOA-ffEeyhVr8NbeV_Xw"/>
+      <visualProperties xmi:id="_MyMvsOffEeyhVr8NbeV_Xw" position="-60.0,-94.0"/>
+      <stereotypes xmi:id="_ZX0egOgCEeyrdOCi8Lg5_g" name="LegacyStyledElement">
+        <modelElement href="Reservas%20Tienda.uml#_JdFOBOffEeyhVr8NbeV_Xw"/>
+      </stereotypes>
+      <visibility xmi:id="_MZ6ylOffEeyhVr8NbeV_Xw" label="~"/>
+      <cardinality xmi:id="_MZ6yk-ffEeyhVr8NbeV_Xw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:GeneralizationVisual" xmi:id="_MaYFkOffEeyhVr8NbeV_Xw" sourceAnchor="138.0,0.0" targetAnchor="137.0,85.0" dashed="true" superClass="_MX_f8OffEeyhVr8NbeV_Xw" subClass="_MbTSoOffEeyhVr8NbeV_Xw">
+    <modelElement href="Reservas%20Tienda.uml#_Jc95QOffEeyhVr8NbeV_Xw"/>
+    <bendpoints xmi:id="_pFF9kOffEeyhVr8NbeV_Xw" sourceY="-30" targetX="-184" targetY="38"/>
+    <bendpoints xmi:id="_pFF9keffEeyhVr8NbeV_Xw" sourceX="184" sourceY="-30" targetY="38"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_MbECEOffEeyhVr8NbeV_Xw" sourceAnchor="138.0,64.0" targetAnchor="64.0,0.0" target="_MiKIlOffEeyhVr8NbeV_Xw" source="_MbTSoOffEeyhVr8NbeV_Xw">
+    <modelElement href="Reservas%20Tienda.uml#_JdL7tOffEeyhVr8NbeV_Xw"/>
+    <stereotypes xmi:id="_MbSrk-ffEeyhVr8NbeV_Xw" name="Reference">
+      <modelElement href="Reservas%20Tienda.uml#_JdL7tuffEeyhVr8NbeV_Xw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_MbSrkOffEeyhVr8NbeV_Xw" text="">
+      <visualProperties xmi:id="_MyNWwOffEeyhVr8NbeV_Xw" position="-48.0,-11.0"/>
+    </nameVisual>
+    <sourceRole xmi:id="_MbSrkeffEeyhVr8NbeV_Xw" aggregationKind="NONE" name="">
+      <modelElement href="Reservas%20Tienda.uml#_JdL7teffEeyhVr8NbeV_Xw"/>
+      <visualProperties xmi:id="_MyMvseffEeyhVr8NbeV_Xw" position="-18.0,39.0"/>
+      <visibility xmi:id="_MbSrleffEeyhVr8NbeV_Xw" label="+"/>
+      <cardinality xmi:id="_MbSrlOffEeyhVr8NbeV_Xw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_MbSrkuffEeyhVr8NbeV_Xw" aggregationKind="NONE" name="tienda" navigable="true">
+      <modelElement href="Reservas%20Tienda.uml#_JdFOBeffEeyhVr8NbeV_Xw"/>
+      <visualProperties xmi:id="_MyNWweffEeyhVr8NbeV_Xw" position="-60.0,-95.0"/>
+      <stereotypes xmi:id="_ZX1FkOgCEeyrdOCi8Lg5_g" name="LegacyStyledElement">
+        <modelElement href="Reservas%20Tienda.uml#_JdFOBuffEeyhVr8NbeV_Xw"/>
+      </stereotypes>
+      <visibility xmi:id="_MbSrl-ffEeyhVr8NbeV_Xw" label="~"/>
+      <cardinality xmi:id="_MbSrluffEeyhVr8NbeV_Xw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_MceXUOffEeyhVr8NbeV_Xw" sourceAnchor="198.0,0.0" targetAnchor="198.0,162.0" target="_MTfacuffEeyhVr8NbeV_Xw" source="_Mdr4Q-ffEeyhVr8NbeV_Xw">
+    <modelElement href="Reservas%20Tienda.uml#_JdL7t-ffEeyhVr8NbeV_Xw"/>
+    <bendpoints xmi:id="_pFGkpeffEeyhVr8NbeV_Xw" sourceY="-111" targetX="416" targetY="22"/>
+    <bendpoints xmi:id="_pFGkpuffEeyhVr8NbeV_Xw" sourceX="-416" sourceY="-112" targetY="21"/>
+    <stereotypes xmi:id="_MdfrA-ffEeyhVr8NbeV_Xw" name="Reference">
+      <modelElement href="Reservas%20Tienda.uml#_JdMiwOffEeyhVr8NbeV_Xw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_MdfrAOffEeyhVr8NbeV_Xw" text="">
+      <visualProperties xmi:id="_MyN90OffEeyhVr8NbeV_Xw" position="122.0,-11.0"/>
+    </nameVisual>
+    <sourceRole xmi:id="_MdfrAeffEeyhVr8NbeV_Xw" aggregationKind="NONE" name="">
+      <modelElement href="Reservas%20Tienda.uml#_JdL7uOffEeyhVr8NbeV_Xw"/>
+      <visualProperties xmi:id="_MyNWwuffEeyhVr8NbeV_Xw" position="-21.0,-60.0"/>
+      <visibility xmi:id="_MdrRMeffEeyhVr8NbeV_Xw" label="+"/>
+      <cardinality xmi:id="_MdrRMOffEeyhVr8NbeV_Xw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_MdfrAuffEeyhVr8NbeV_Xw" aggregationKind="NONE" name="cliente" navigable="true">
+      <modelElement href="Reservas%20Tienda.uml#_JdF1EuffEeyhVr8NbeV_Xw"/>
+      <visualProperties xmi:id="_MyN90effEeyhVr8NbeV_Xw" position="178.0,-44.0"/>
+      <stereotypes xmi:id="_ZX1FkegCEeyrdOCi8Lg5_g" name="LegacyStyledElement">
+        <modelElement href="Reservas%20Tienda.uml#_JdF1E-ffEeyhVr8NbeV_Xw"/>
+      </stereotypes>
+      <visibility xmi:id="_Mdr4QeffEeyhVr8NbeV_Xw" label="-"/>
+      <cardinality xmi:id="_Mdr4QOffEeyhVr8NbeV_Xw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_Mdec4OffEeyhVr8NbeV_Xw" targetItem="_Mdr4Q-ffEeyhVr8NbeV_Xw" sourceItem="_MdK64OffEeyhVr8NbeV_Xw"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_MdpcAOffEeyhVr8NbeV_Xw" targetItem="_Mdr4UOffEeyhVr8NbeV_Xw" sourceItem="_MdfrBOffEeyhVr8NbeV_Xw"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_MdqqIeffEeyhVr8NbeV_Xw" targetItem="_Mdr4VeffEeyhVr8NbeV_Xw" sourceItem="_MdqqIOffEeyhVr8NbeV_Xw"/>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:GeneralizationVisual" xmi:id="_MeCdkOffEeyhVr8NbeV_Xw" sourceAnchor="260.0,0.0" targetAnchor="199.0,116.0" superClass="_Mdr4Q-ffEeyhVr8NbeV_Xw" subClass="_Me6AQ-ffEeyhVr8NbeV_Xw">
+    <modelElement href="Reservas%20Tienda.uml#_Jc-gUeffEeyhVr8NbeV_Xw"/>
+    <bendpoints xmi:id="_pFGkq-ffEeyhVr8NbeV_Xw" sourceY="-30" targetX="636" targetY="38"/>
+    <bendpoints xmi:id="_pFGkrOffEeyhVr8NbeV_Xw" sourceX="-636" sourceY="-30" targetY="38"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_Me4yIOffEeyhVr8NbeV_Xw" targetItem="_Me6ARuffEeyhVr8NbeV_Xw" sourceItem="_Mel3MOffEeyhVr8NbeV_Xw"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_Me6AQOffEeyhVr8NbeV_Xw" targetItem="_Me6AS-ffEeyhVr8NbeV_Xw" sourceItem="_Me5ZMOffEeyhVr8NbeV_Xw"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_Me6AQuffEeyhVr8NbeV_Xw" targetItem="_Me6AUOffEeyhVr8NbeV_Xw" sourceItem="_Me6AQeffEeyhVr8NbeV_Xw"/>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:GeneralizationVisual" xmi:id="_MfhrUOffEeyhVr8NbeV_Xw" sourceAnchor="370.0,0.0" targetAnchor="199.0,116.0" superClass="_Mdr4Q-ffEeyhVr8NbeV_Xw" subClass="_Mg158OffEeyhVr8NbeV_Xw">
+    <modelElement href="Reservas%20Tienda.uml#_Jc-gW-ffEeyhVr8NbeV_Xw"/>
+    <bendpoints xmi:id="_pFGkqeffEeyhVr8NbeV_Xw" sourceY="-31" targetX="-30" targetY="38"/>
+    <bendpoints xmi:id="_pFGkquffEeyhVr8NbeV_Xw" sourceX="30" sourceY="-31" targetY="38"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_MgmpYOffEeyhVr8NbeV_Xw" targetItem="_Mg15--ffEeyhVr8NbeV_Xw" sourceItem="_MgTucOffEeyhVr8NbeV_Xw"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_MgoekOffEeyhVr8NbeV_Xw" targetItem="_Mg16AOffEeyhVr8NbeV_Xw" sourceItem="_Mgn3gOffEeyhVr8NbeV_Xw"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_MgoekuffEeyhVr8NbeV_Xw" targetItem="_Mg16BeffEeyhVr8NbeV_Xw" sourceItem="_MgoekeffEeyhVr8NbeV_Xw"/>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_MiHsUOffEeyhVr8NbeV_Xw" source="_MiKIlOffEeyhVr8NbeV_Xw">
+    <modelElement href="Reservas%20Tienda.uml#_JdMix-ffEeyhVr8NbeV_Xw"/>
+    <stereotypes xmi:id="_MiJhheffEeyhVr8NbeV_Xw" name="Reference">
+      <modelElement href="Reservas%20Tienda.uml#_JdMiyeffEeyhVr8NbeV_Xw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_MiJhguffEeyhVr8NbeV_Xw" text=""/>
+    <sourceRole xmi:id="_MiJhg-ffEeyhVr8NbeV_Xw" aggregationKind="NONE" name="">
+      <modelElement href="Reservas%20Tienda.uml#_JdMiyOffEeyhVr8NbeV_Xw"/>
+      <visibility xmi:id="_MiJhh-ffEeyhVr8NbeV_Xw" label="+"/>
+      <cardinality xmi:id="_MiJhhuffEeyhVr8NbeV_Xw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_MiJhhOffEeyhVr8NbeV_Xw" aggregationKind="NONE" name="clientes" navigable="true">
+      <modelElement href="Reservas%20Tienda.uml#_JdGcJOffEeyhVr8NbeV_Xw"/>
+      <stereotypes xmi:id="_ZX1soOgCEeyrdOCi8Lg5_g" name="Generics">
+        <modelElement href="Reservas%20Tienda.uml#_JdGcJeffEeyhVr8NbeV_Xw"/>
+      </stereotypes>
+      <stereotypes xmi:id="_ZX1soegCEeyrdOCi8Lg5_g" name="LegacyStyledElement">
+        <modelElement href="Reservas%20Tienda.uml#_JdGcJ-ffEeyhVr8NbeV_Xw"/>
+      </stereotypes>
+      <visibility xmi:id="_MiKIkeffEeyhVr8NbeV_Xw" label="-"/>
+      <cardinality xmi:id="_MiKIkOffEeyhVr8NbeV_Xw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_PMVGoOgdEey6PfYDKKVB7A" targetItem="_MiKIlOffEeyhVr8NbeV_Xw" sourceItem="_PMQ1MOgdEey6PfYDKKVB7A"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_PMhT4OgdEey6PfYDKKVB7A" targetItem="_MiKIouffEeyhVr8NbeV_Xw" sourceItem="_PMgs0OgdEey6PfYDKKVB7A"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_PMmzcOgdEey6PfYDKKVB7A" targetItem="_MiKIquffEeyhVr8NbeV_Xw" sourceItem="_PMllUOgdEey6PfYDKKVB7A"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_PMxLgOgdEey6PfYDKKVB7A" targetItem="_MiKIteffEeyhVr8NbeV_Xw" sourceItem="_PMvWUOgdEey6PfYDKKVB7A"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_PM35MOgdEey6PfYDKKVB7A" targetItem="_MiKIw-ffEeyhVr8NbeV_Xw" sourceItem="_PM3SIOgdEey6PfYDKKVB7A"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_PNQ6wOgdEey6PfYDKKVB7A" targetItem="_MiKIyOffEeyhVr8NbeV_Xw" sourceItem="_PNQTsOgdEey6PfYDKKVB7A"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_PNT-EegdEey6PfYDKKVB7A" targetItem="_MiKIzeffEeyhVr8NbeV_Xw" sourceItem="_PNT-EOgdEey6PfYDKKVB7A"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_PNYPgOgdEey6PfYDKKVB7A" targetItem="_MiKI1effEeyhVr8NbeV_Xw" sourceItem="_PNXocOgdEey6PfYDKKVB7A"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_PNdIAOgdEey6PfYDKKVB7A" targetItem="_MiKI2-ffEeyhVr8NbeV_Xw" sourceItem="_PNcg8OgdEey6PfYDKKVB7A"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_PNlD0OgdEey6PfYDKKVB7A" targetItem="_MiKI4-ffEeyhVr8NbeV_Xw" sourceItem="_PNinkOgdEey6PfYDKKVB7A"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_PN5M4OgdEey6PfYDKKVB7A" targetItem="_MjrykOffEeyhVr8NbeV_Xw" sourceItem="_PNpVQOgdEey6PfYDKKVB7A"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_POC94OgdEey6PfYDKKVB7A" targetItem="_MlM1gOffEeyhVr8NbeV_Xw" sourceItem="_POBvwOgdEey6PfYDKKVB7A"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_POHPUOgdEey6PfYDKKVB7A" targetItem="_MmvGkOffEeyhVr8NbeV_Xw" sourceItem="_POGoQOgdEey6PfYDKKVB7A"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_PfJU8OgdEey6PfYDKKVB7A" targetItem="_MbTSoOffEeyhVr8NbeV_Xw" sourceItem="_Pe75kOgdEey6PfYDKKVB7A"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_PyJwgOgdEey6PfYDKKVB7A" targetItem="_MZ6yluffEeyhVr8NbeV_Xw" sourceItem="_PyJJcOgdEey6PfYDKKVB7A"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_QAhjsOgdEey6PfYDKKVB7A" targetItem="_MX_f8OffEeyhVr8NbeV_Xw" sourceItem="_QAgVkOgdEey6PfYDKKVB7A"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_QTlpoOgdEey6PfYDKKVB7A" targetItem="_MW2QcOffEeyhVr8NbeV_Xw" sourceItem="_QTlCkOgdEey6PfYDKKVB7A"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_QnnY4OgdEey6PfYDKKVB7A" targetItem="_MVsZ4OffEeyhVr8NbeV_Xw" sourceItem="_QnmKwegdEey6PfYDKKVB7A"/>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_MTZT0OffEeyhVr8NbeV_Xw" sourceConnectionVisual="_MTeMUOffEeyhVr8NbeV_Xw" text="Clase que representa un cliente registrado en la tienda.&#xA;Por cada cliente se almacena solo su nombre y dni (que lo identifica).&#xA;&#xA;@author &#xA;@version &#xA; *" item="_MTfacuffEeyhVr8NbeV_Xw">
+    <modelElement href="Reservas%20Tienda.uml#_JdJfgeffEeyhVr8NbeV_Xw"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_MTezYOffEeyhVr8NbeV_Xw" sourceConnectionVisual="_MTezYeffEeyhVr8NbeV_Xw" text="Constructor de la clase Cliente.&#xA;&#x9; * @param nombre Nombre del cliente.&#xA;&#x9; * @param dni DNI del cliente." item="_MTfaf-ffEeyhVr8NbeV_Xw">
+    <modelElement href="Reservas%20Tienda.uml#_JdJfguffEeyhVr8NbeV_Xw"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_MTfacOffEeyhVr8NbeV_Xw" sourceConnectionVisual="_MTfaceffEeyhVr8NbeV_Xw" text="Retorna el dni del cliente.&#xA;&#x9; * @return DNI del cliente." item="_MTfai-ffEeyhVr8NbeV_Xw">
+    <modelElement href="Reservas%20Tienda.uml#_JdJfg-ffEeyhVr8NbeV_Xw"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_MT1_wOffEeyhVr8NbeV_Xw" sourceConnectionVisual="_MT308OffEeyhVr8NbeV_Xw" text="Clase que representa un cliente registrado en la tienda.&#xD;&#xA;Por cada cliente se almacena solo su nombre y dni (que lo identifica).&#xD;&#xA;&#xD;&#xA;@author &#xD;&#xA;@version &#xD;&#xA; *" item="_MUC0EOffEeyhVr8NbeV_Xw">
+    <modelElement href="Reservas%20Tienda.uml#_JdJfhOffEeyhVr8NbeV_Xw"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_MT5DEOffEeyhVr8NbeV_Xw" sourceConnectionVisual="_MT_JsOffEeyhVr8NbeV_Xw" text="Constructor de la clase Cliente.&#xD;&#xA;&#x9; * @param nombre Nombre del cliente.&#xD;&#xA;&#x9; * @param dni DNI del cliente." item="_MUC0E-ffEeyhVr8NbeV_Xw">
+    <modelElement href="Reservas%20Tienda.uml#_JdJfheffEeyhVr8NbeV_Xw"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_MUAX0OffEeyhVr8NbeV_Xw" sourceConnectionVisual="_MUAX0effEeyhVr8NbeV_Xw" text="Retorna el nombre del cliente.&#xD;&#xA;&#x9; * @return Nombre del cliente." item="_MUC0H-ffEeyhVr8NbeV_Xw">
+    <modelElement href="Reservas%20Tienda.uml#_JdJfhuffEeyhVr8NbeV_Xw"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_MUAX0uffEeyhVr8NbeV_Xw" sourceConnectionVisual="_MUCNAOffEeyhVr8NbeV_Xw" text="Retorna el dni del cliente.&#xD;&#xA;&#x9; * @return DNI del cliente." item="_MUC0JOffEeyhVr8NbeV_Xw">
+    <modelElement href="Reservas%20Tienda.uml#_JdKGgOffEeyhVr8NbeV_Xw"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_MUjKYOffEeyhVr8NbeV_Xw" sourceConnectionVisual="_MUmNsOffEeyhVr8NbeV_Xw" text="Clase que representa un cliente registrado en la tienda.&#xD;&#xA;Por cada cliente se almacena solo su nombre y dni (que lo identifica).&#xD;&#xA;&#xD;&#xA;@author &#xD;&#xA;@version &#xD;&#xA; *" item="_MUzpEuffEeyhVr8NbeV_Xw">
+    <modelElement href="Reservas%20Tienda.uml#_JdKGgeffEeyhVr8NbeV_Xw"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_MUm0wOffEeyhVr8NbeV_Xw" sourceConnectionVisual="_MUvXoOffEeyhVr8NbeV_Xw" text="Constructor de la clase Cliente.&#xD;&#xA;&#x9; * @param nombre Nombre del cliente.&#xD;&#xA;&#x9; * @param dni DNI del cliente." item="_MUzpGuffEeyhVr8NbeV_Xw">
+    <modelElement href="Reservas%20Tienda.uml#_JdKGguffEeyhVr8NbeV_Xw"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_MUv-sOffEeyhVr8NbeV_Xw" sourceConnectionVisual="_MUzCAOffEeyhVr8NbeV_Xw" text="Retorna el nombre del cliente.&#xD;&#xA;&#x9; * @return Nombre del cliente." item="_MUzpKeffEeyhVr8NbeV_Xw">
+    <modelElement href="Reservas%20Tienda.uml#_JdKGg-ffEeyhVr8NbeV_Xw"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_MUzpEOffEeyhVr8NbeV_Xw" sourceConnectionVisual="_MUzpEeffEeyhVr8NbeV_Xw" text="Retorna el dni del cliente.&#xD;&#xA;&#x9; * @return DNI del cliente." item="_MUzpLuffEeyhVr8NbeV_Xw">
+    <modelElement href="Reservas%20Tienda.uml#_JdKGhOffEeyhVr8NbeV_Xw"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_MXHWMOffEeyhVr8NbeV_Xw" sourceConnectionVisual="_MXbfQOffEeyhVr8NbeV_Xw" text="Clase que representa un producto ofertado por la tienda.&#xA;Todo producto se identifica por un codigo numerico que se asigna&#xA;automaticamente en su creacion.&#xA;Un producto puede tener una serie de reservas, de manera, que cuando&#xA;se actualice el stock del producto, sea utilizado para suplir dichas &#xA;reservas (en orden de antiguedad).&#xA;&#xA;@author &#xA;@version &#xA; *" item="_MXkpMOffEeyhVr8NbeV_Xw">
+    <modelElement href="Reservas%20Tienda.uml#_JdKGhuffEeyhVr8NbeV_Xw"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_MXg-0effEeyhVr8NbeV_Xw" sourceConnectionVisual="_MXhl4OffEeyhVr8NbeV_Xw" text="Constructor del producto. Asigna un identificador unico&#xA;&#x9; * a cada producto.&#xA;&#x9; * @param descripcion descripcion del producto.&#xA;&#x9; * @param stockInicial numero de unidades disponibles del producto." item="_MXkpUOffEeyhVr8NbeV_Xw">
+    <modelElement href="Reservas%20Tienda.uml#_JdKGh-ffEeyhVr8NbeV_Xw"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_MXhl4effEeyhVr8NbeV_Xw" sourceConnectionVisual="_MXhl4uffEeyhVr8NbeV_Xw" text="Simula la generacion de un codigo diferente para cada producto.&#xA;&#x9; * @return codigo generado." item="_MXkpX-ffEeyhVr8NbeV_Xw">
+    <modelElement href="Reservas%20Tienda.uml#_JdKGiOffEeyhVr8NbeV_Xw"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_MXiM8OffEeyhVr8NbeV_Xw" sourceConnectionVisual="_MXiM8effEeyhVr8NbeV_Xw" text="Retorna el identificador del producto.&#xA;&#x9; * @return identificador del producto." item="_MXkpZOffEeyhVr8NbeV_Xw">
+    <modelElement href="Reservas%20Tienda.uml#_JdKGieffEeyhVr8NbeV_Xw"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_MXiM8uffEeyhVr8NbeV_Xw" sourceConnectionVisual="_MXiM8-ffEeyhVr8NbeV_Xw" text="Actualiza el stock del producto en la cantidad indicada, &#xA;&#x9; * que puede ser negativa o positiva.&#xA;&#x9; * @param cantidad numero de unidades que se anhaden/eliminan.&#xA;&#x9; * @return lista de reservas cubiertas con el nuevo stock." item="_MXkpaeffEeyhVr8NbeV_Xw">
+    <modelElement href="Reservas%20Tienda.uml#_JdKGiuffEeyhVr8NbeV_Xw"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_MXiM9OffEeyhVr8NbeV_Xw" sourceConnectionVisual="_MXiM9effEeyhVr8NbeV_Xw" text="Indica si el producto tiene alguna reserva pendiente de cubrir.&#xA;&#x9; * @return verdadero si el producto tiene alguna reserva pendiente de cubrir." item="_MXkpceffEeyhVr8NbeV_Xw">
+    <modelElement href="Reservas%20Tienda.uml#_JdKGjOffEeyhVr8NbeV_Xw"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_MXi0AOffEeyhVr8NbeV_Xw" sourceConnectionVisual="_MXi0AeffEeyhVr8NbeV_Xw" text="Retorna el total de unidades reservadas.&#xA;&#x9; * @return numero total de unidades del producto reservadas." item="_MXkpduffEeyhVr8NbeV_Xw">
+    <modelElement href="Reservas%20Tienda.uml#_JdKGjeffEeyhVr8NbeV_Xw"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_MXi0AuffEeyhVr8NbeV_Xw" sourceConnectionVisual="_MXi0A-ffEeyhVr8NbeV_Xw" text="Almacena una nueva reserva para el producto.&#xA;&#x9; * @param r reserva a almacenar." item="_MXkpe-ffEeyhVr8NbeV_Xw">
+    <modelElement href="Reservas%20Tienda.uml#_JdKGi-ffEeyhVr8NbeV_Xw"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_MXi0BOffEeyhVr8NbeV_Xw" sourceConnectionVisual="_MXi0BeffEeyhVr8NbeV_Xw" text="*" item="_MXkpgeffEeyhVr8NbeV_Xw">
+    <modelElement href="Reservas%20Tienda.uml#_JdKGjuffEeyhVr8NbeV_Xw"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_MdK64OffEeyhVr8NbeV_Xw" sourceConnectionVisual="_Mdec4OffEeyhVr8NbeV_Xw" text="Representa una reserva que un cliente realiza sobre un &#xA;determinada producto. Se pueden reservas un numero determinado&#xA;de unidades.&#xA;&#xA;@author &#xA;@version &#xA; *" item="_Mdr4Q-ffEeyhVr8NbeV_Xw">
+    <modelElement href="Reservas%20Tienda.uml#_JdKGj-ffEeyhVr8NbeV_Xw"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_MdfrBOffEeyhVr8NbeV_Xw" sourceConnectionVisual="_MdpcAOffEeyhVr8NbeV_Xw" text="Retorna el cliente que ha realizado la reserva.&#xA;&#x9; * @return cliente que ha realizado la reserva." item="_Mdr4UOffEeyhVr8NbeV_Xw">
+    <modelElement href="Reservas%20Tienda.uml#_JdKGkeffEeyhVr8NbeV_Xw"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_MdqqIOffEeyhVr8NbeV_Xw" sourceConnectionVisual="_MdqqIeffEeyhVr8NbeV_Xw" text="Constructor de la reserva.&#xA;&#x9; * @param unidades unidades reservadas.&#xA;&#x9; * @param cliente cliente que realiza la reserva." item="_Mdr4VeffEeyhVr8NbeV_Xw">
+    <modelElement href="Reservas%20Tienda.uml#_JdKGkOffEeyhVr8NbeV_Xw"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_Mel3MOffEeyhVr8NbeV_Xw" sourceConnectionVisual="_Me4yIOffEeyhVr8NbeV_Xw" text="Retorna el numero de unidades reservadas.&#xD;&#xA;&#x9; * @return numero de unidades reservadas." item="_Me6ARuffEeyhVr8NbeV_Xw">
+    <modelElement href="Reservas%20Tienda.uml#_JdKGk-ffEeyhVr8NbeV_Xw"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_Me5ZMOffEeyhVr8NbeV_Xw" sourceConnectionVisual="_Me6AQOffEeyhVr8NbeV_Xw" text="Retorna el cliente que ha realizado la reserva.&#xD;&#xA;&#x9; * @return cliente que ha realizado la reserva." item="_Me6AS-ffEeyhVr8NbeV_Xw">
+    <modelElement href="Reservas%20Tienda.uml#_JdKGlOffEeyhVr8NbeV_Xw"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_Me6AQeffEeyhVr8NbeV_Xw" sourceConnectionVisual="_Me6AQuffEeyhVr8NbeV_Xw" text="Constructor de la reserva.&#xD;&#xA;&#x9; * @param unidades unidades reservadas.&#xD;&#xA;&#x9; * @param cliente cliente que realiza la reserva." item="_Me6AUOffEeyhVr8NbeV_Xw">
+    <modelElement href="Reservas%20Tienda.uml#_JdKGkuffEeyhVr8NbeV_Xw"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_MgTucOffEeyhVr8NbeV_Xw" sourceConnectionVisual="_MgmpYOffEeyhVr8NbeV_Xw" text="Retorna el numero de unidades reservadas.&#xD;&#xA;&#x9; * @return numero de unidades reservadas." item="_Mg15--ffEeyhVr8NbeV_Xw">
+    <modelElement href="Reservas%20Tienda.uml#_JdKGluffEeyhVr8NbeV_Xw"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_Mgn3gOffEeyhVr8NbeV_Xw" sourceConnectionVisual="_MgoekOffEeyhVr8NbeV_Xw" text="Retorna el cliente que ha realizado la reserva.&#xD;&#xA;&#x9; * @return cliente que ha realizado la reserva." item="_Mg16AOffEeyhVr8NbeV_Xw">
+    <modelElement href="Reservas%20Tienda.uml#_JdKGl-ffEeyhVr8NbeV_Xw"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_MgoekeffEeyhVr8NbeV_Xw" sourceConnectionVisual="_MgoekuffEeyhVr8NbeV_Xw" text="Constructor de la reserva.&#xD;&#xA;&#x9; * @param unidades unidades reservadas.&#xD;&#xA;&#x9; * @param cliente cliente que realiza la reserva." item="_Mg16BeffEeyhVr8NbeV_Xw">
+    <modelElement href="Reservas%20Tienda.uml#_JdKGleffEeyhVr8NbeV_Xw"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_MXkpMOffEeyhVr8NbeV_Xw" comments="_MXHWMOffEeyhVr8NbeV_Xw" targetConnectionVisual="_MXbfQOffEeyhVr8NbeV_Xw" name="Producto" associationsIn="_MXg-0OffEeyhVr8NbeV_Xw" associationsOut="_MXkCJuffEeyhVr8NbeV_Xw">
+    <modelElement href="Reservas%20Tienda.uml#_Jb7-gOffEeyhVr8NbeV_Xw"/>
+    <visualProperties xmi:id="_MXkpMeffEeyhVr8NbeV_Xw" position="71.0,1058.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_MXkpMuffEeyhVr8NbeV_Xw" label="+"/>
+    <attributes xmi:id="_MXkpM-ffEeyhVr8NbeV_Xw" name="id">
+      <modelElement href="Reservas%20Tienda.uml#_JdD_5effEeyhVr8NbeV_Xw"/>
+      <stereotypes xmi:id="_MXkpNOffEeyhVr8NbeV_Xw" name="LegacyStyledElement">
+        <modelElement href="Reservas%20Tienda.uml#_JdD_5uffEeyhVr8NbeV_Xw"/>
+      </stereotypes>
+      <visibility xmi:id="_MXkpNeffEeyhVr8NbeV_Xw" label="-"/>
+      <cardinality xmi:id="_MXkpNuffEeyhVr8NbeV_Xw" label="1" max="1" min="1"/>
+      <type xmi:id="_MXkpN-ffEeyhVr8NbeV_Xw" name="int">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_MXkpOOffEeyhVr8NbeV_Xw" name="descripcion">
+      <modelElement href="Reservas%20Tienda.uml#_JdD_5-ffEeyhVr8NbeV_Xw"/>
+      <stereotypes xmi:id="_MXkpOeffEeyhVr8NbeV_Xw" name="LegacyStyledElement">
+        <modelElement href="Reservas%20Tienda.uml#_JdEm8OffEeyhVr8NbeV_Xw"/>
+      </stereotypes>
+      <visibility xmi:id="_MXkpOuffEeyhVr8NbeV_Xw" label="+"/>
+      <cardinality xmi:id="_MXkpO-ffEeyhVr8NbeV_Xw" label="1" max="1" min="1"/>
+      <type xmi:id="_MXkpPOffEeyhVr8NbeV_Xw" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_MXkpPeffEeyhVr8NbeV_Xw" defaultValue="0" name="unidadesStock">
+      <modelElement href="Reservas%20Tienda.uml#_JdEm8-ffEeyhVr8NbeV_Xw"/>
+      <visibility xmi:id="_MXkpPuffEeyhVr8NbeV_Xw" label="+"/>
+      <cardinality xmi:id="_MXkpP-ffEeyhVr8NbeV_Xw" label="1" max="1" min="1"/>
+      <type xmi:id="_MXkpQOffEeyhVr8NbeV_Xw" name="int">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_MXkpQeffEeyhVr8NbeV_Xw" name="precioUnidad">
+      <modelElement href="Reservas%20Tienda.uml#_JdEm9effEeyhVr8NbeV_Xw"/>
+      <visibility xmi:id="_MXkpQuffEeyhVr8NbeV_Xw" label="+"/>
+      <cardinality xmi:id="_MXkpQ-ffEeyhVr8NbeV_Xw" label="1" max="1" min="1"/>
+      <type xmi:id="_MXkpROffEeyhVr8NbeV_Xw" name="double">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_MXkpReffEeyhVr8NbeV_Xw" defaultValue="0" name="contadorProductos" staticAttribute="true">
+      <modelElement href="Reservas%20Tienda.uml#_JdEm9uffEeyhVr8NbeV_Xw"/>
+      <stereotypes xmi:id="_MXkpRuffEeyhVr8NbeV_Xw" name="LegacyStyledElement">
+        <modelElement href="Reservas%20Tienda.uml#_JdEm-OffEeyhVr8NbeV_Xw"/>
+      </stereotypes>
+      <visibility xmi:id="_MXkpR-ffEeyhVr8NbeV_Xw" label="-"/>
+      <cardinality xmi:id="_MXkpSOffEeyhVr8NbeV_Xw" label="1" max="1" min="1"/>
+      <type xmi:id="_MXkpSeffEeyhVr8NbeV_Xw" name="int">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_MXkpSuffEeyhVr8NbeV_Xw" defaultValue="new LinkedList&lt;Reserva>()" name="reservas">
+      <modelElement href="Reservas%20Tienda.uml#_JdEm-effEeyhVr8NbeV_Xw"/>
+      <stereotypes xmi:id="_ZYZtUOgCEeyrdOCi8Lg5_g" name="Generics"/>
+      <stereotypes xmi:id="_ZYZtUegCEeyrdOCi8Lg5_g" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_ZYaUYOgCEeyrdOCi8Lg5_g" name="Generics"/>
+      <stereotypes xmi:id="_ZYaUYegCEeyrdOCi8Lg5_g" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_ZYfM4OgCEeyrdOCi8Lg5_g" name="Generics"/>
+      <stereotypes xmi:id="_ZYfM4egCEeyrdOCi8Lg5_g" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_VYmDUOgXEeylOIr2X-lFjw" name="Generics"/>
+      <stereotypes xmi:id="_VYmDUegXEeylOIr2X-lFjw" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_VYmqYOgXEeylOIr2X-lFjw" name="Generics"/>
+      <stereotypes xmi:id="_VYnRcOgXEeylOIr2X-lFjw" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_VYtYEOgXEeylOIr2X-lFjw" name="Generics"/>
+      <stereotypes xmi:id="_VYtYEegXEeylOIr2X-lFjw" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_5xCpwOgcEey6PfYDKKVB7A" name="Generics"/>
+      <stereotypes xmi:id="_5xCpwegcEey6PfYDKKVB7A" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_5xDQ0OgcEey6PfYDKKVB7A" name="Generics"/>
+      <stereotypes xmi:id="_5xDQ0egcEey6PfYDKKVB7A" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_5xIwYOgcEey6PfYDKKVB7A" name="Generics"/>
+      <stereotypes xmi:id="_5xIwYegcEey6PfYDKKVB7A" name="LegacyStyledElement"/>
+      <visibility xmi:id="_MXkpTeffEeyhVr8NbeV_Xw" label="-"/>
+      <cardinality xmi:id="_MXkpTuffEeyhVr8NbeV_Xw" label="1" max="1" min="1"/>
+      <type xmi:id="_MXkpT-ffEeyhVr8NbeV_Xw" name="Queue">
+        <modelElement href="Reservas%20Tienda.uml#_Jc8rIeffEeyhVr8NbeV_Xw"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_MXkpUOffEeyhVr8NbeV_Xw" comments="_MXg-0effEeyhVr8NbeV_Xw" targetConnectionVisual="_MXhl4OffEeyhVr8NbeV_Xw" name="Producto">
+      <modelElement href="Reservas%20Tienda.uml#_Jb8lkOffEeyhVr8NbeV_Xw"/>
+      <keywords xmi:id="_MXkpUeffEeyhVr8NbeV_Xw" keyword="create"/>
+      <visibility xmi:id="_MXkpUuffEeyhVr8NbeV_Xw" label="+"/>
+      <cardinality xmi:id="_MXkpU-ffEeyhVr8NbeV_Xw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_MXkpVOffEeyhVr8NbeV_Xw">
+        <modelElement href="Reservas%20Tienda.uml#_Jb8lluffEeyhVr8NbeV_Xw"/>
+        <type xmi:id="_MXkpVeffEeyhVr8NbeV_Xw" name="Producto">
+          <modelElement href="Reservas%20Tienda.uml#_Jb7-gOffEeyhVr8NbeV_Xw"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_MXkpVuffEeyhVr8NbeV_Xw" name="descripcion">
+        <modelElement href="Reservas%20Tienda.uml#_Jb8lkeffEeyhVr8NbeV_Xw"/>
+        <cardinality xmi:id="_MXkpV-ffEeyhVr8NbeV_Xw" label="1" max="1" min="1"/>
+        <type xmi:id="_MXkpWOffEeyhVr8NbeV_Xw" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_MXkpWeffEeyhVr8NbeV_Xw" name="stockInicial">
+        <modelElement href="Reservas%20Tienda.uml#_Jb8lkuffEeyhVr8NbeV_Xw"/>
+        <cardinality xmi:id="_MXkpWuffEeyhVr8NbeV_Xw" label="1" max="1" min="1"/>
+        <type xmi:id="_MXkpW-ffEeyhVr8NbeV_Xw" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_MXkpXOffEeyhVr8NbeV_Xw" name="precioUnidad">
+        <modelElement href="Reservas%20Tienda.uml#_Jb8lk-ffEeyhVr8NbeV_Xw"/>
+        <cardinality xmi:id="_MXkpXeffEeyhVr8NbeV_Xw" label="1" max="1" min="1"/>
+        <type xmi:id="_MXkpXuffEeyhVr8NbeV_Xw" name="double">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_MXkpX-ffEeyhVr8NbeV_Xw" comments="_MXhl4effEeyhVr8NbeV_Xw" targetConnectionVisual="_MXhl4uffEeyhVr8NbeV_Xw" name="generaCodigoProducto" staticOperation="true">
+      <modelElement href="Reservas%20Tienda.uml#_Jb8ll-ffEeyhVr8NbeV_Xw"/>
+      <visibility xmi:id="_MXkpYOffEeyhVr8NbeV_Xw" label="-"/>
+      <cardinality xmi:id="_MXkpYeffEeyhVr8NbeV_Xw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_MXkpYuffEeyhVr8NbeV_Xw">
+        <modelElement href="Reservas%20Tienda.uml#_Jb8lmOffEeyhVr8NbeV_Xw"/>
+        <type xmi:id="_MXkpY-ffEeyhVr8NbeV_Xw" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_MXkpZOffEeyhVr8NbeV_Xw" comments="_MXiM8OffEeyhVr8NbeV_Xw" targetConnectionVisual="_MXiM8effEeyhVr8NbeV_Xw" name="getId">
+      <modelElement href="Reservas%20Tienda.uml#_Jb8lmeffEeyhVr8NbeV_Xw"/>
+      <visibility xmi:id="_MXkpZeffEeyhVr8NbeV_Xw" label="+"/>
+      <cardinality xmi:id="_MXkpZuffEeyhVr8NbeV_Xw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_MXkpZ-ffEeyhVr8NbeV_Xw">
+        <modelElement href="Reservas%20Tienda.uml#_Jb8lmuffEeyhVr8NbeV_Xw"/>
+        <type xmi:id="_MXkpaOffEeyhVr8NbeV_Xw" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_MXkpaeffEeyhVr8NbeV_Xw" comments="_MXiM8uffEeyhVr8NbeV_Xw" targetConnectionVisual="_MXiM8-ffEeyhVr8NbeV_Xw" name="actualizaStock">
+      <modelElement href="Reservas%20Tienda.uml#_Jb8lm-ffEeyhVr8NbeV_Xw"/>
+      <visibility xmi:id="_MXkpauffEeyhVr8NbeV_Xw" label="+"/>
+      <cardinality xmi:id="_MXkpa-ffEeyhVr8NbeV_Xw" label="1..*" max="-1" min="1"/>
+      <outParameters xmi:id="_MXkpbOffEeyhVr8NbeV_Xw">
+        <modelElement href="Reservas%20Tienda.uml#_Jb8lneffEeyhVr8NbeV_Xw"/>
+        <type xmi:id="_MXkpbeffEeyhVr8NbeV_Xw" name="Reserva">
+          <modelElement href="Reservas%20Tienda.uml#_JcAP8OffEeyhVr8NbeV_Xw"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_MXkpbuffEeyhVr8NbeV_Xw" name="cantidad">
+        <modelElement href="Reservas%20Tienda.uml#_Jb8lnOffEeyhVr8NbeV_Xw"/>
+        <cardinality xmi:id="_MXkpb-ffEeyhVr8NbeV_Xw" label="1" max="1" min="1"/>
+        <type xmi:id="_MXkpcOffEeyhVr8NbeV_Xw" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_MXkpceffEeyhVr8NbeV_Xw" comments="_MXiM9OffEeyhVr8NbeV_Xw" targetConnectionVisual="_MXiM9effEeyhVr8NbeV_Xw" name="reservasPendientes">
+      <modelElement href="Reservas%20Tienda.uml#_Jb9MoOffEeyhVr8NbeV_Xw"/>
+      <visibility xmi:id="_MXkpcuffEeyhVr8NbeV_Xw" label="+"/>
+      <cardinality xmi:id="_MXkpc-ffEeyhVr8NbeV_Xw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_MXkpdOffEeyhVr8NbeV_Xw">
+        <modelElement href="Reservas%20Tienda.uml#_Jb9MoeffEeyhVr8NbeV_Xw"/>
+        <type xmi:id="_MXkpdeffEeyhVr8NbeV_Xw" name="boolean">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_MXkpduffEeyhVr8NbeV_Xw" comments="_MXi0AOffEeyhVr8NbeV_Xw" targetConnectionVisual="_MXi0AeffEeyhVr8NbeV_Xw" name="unidadesReservadas">
+      <modelElement href="Reservas%20Tienda.uml#_Jb9MouffEeyhVr8NbeV_Xw"/>
+      <visibility xmi:id="_MXkpd-ffEeyhVr8NbeV_Xw" label="+"/>
+      <cardinality xmi:id="_MXkpeOffEeyhVr8NbeV_Xw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_MXkpeeffEeyhVr8NbeV_Xw">
+        <modelElement href="Reservas%20Tienda.uml#_Jb9Mo-ffEeyhVr8NbeV_Xw"/>
+        <type xmi:id="_MXkpeuffEeyhVr8NbeV_Xw" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_MXkpe-ffEeyhVr8NbeV_Xw" comments="_MXi0AuffEeyhVr8NbeV_Xw" targetConnectionVisual="_MXi0A-ffEeyhVr8NbeV_Xw" name="anhadeReserva">
+      <modelElement href="Reservas%20Tienda.uml#_Jc8rI-ffEeyhVr8NbeV_Xw"/>
+      <visibility xmi:id="_MXkpfOffEeyhVr8NbeV_Xw" label="+"/>
+      <cardinality xmi:id="_MXkpfeffEeyhVr8NbeV_Xw" label="1" max="1" min="1"/>
+      <parameters xmi:id="_MXkpfuffEeyhVr8NbeV_Xw" name="r">
+        <modelElement href="Reservas%20Tienda.uml#_Jc8rJOffEeyhVr8NbeV_Xw"/>
+        <cardinality xmi:id="_MXkpf-ffEeyhVr8NbeV_Xw" label="1" max="1" min="1"/>
+        <type xmi:id="_MXkpgOffEeyhVr8NbeV_Xw" name="Reserva">
+          <modelElement href="Reservas%20Tienda.uml#_JcAP8OffEeyhVr8NbeV_Xw"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_MXkpgeffEeyhVr8NbeV_Xw" comments="_MXi0BOffEeyhVr8NbeV_Xw" targetConnectionVisual="_MXi0BeffEeyhVr8NbeV_Xw" name="buscarReserva">
+      <modelElement href="Reservas%20Tienda.uml#_Jc9SMOffEeyhVr8NbeV_Xw"/>
+      <visibility xmi:id="_MXkpguffEeyhVr8NbeV_Xw" label="+"/>
+      <cardinality xmi:id="_MXkpg-ffEeyhVr8NbeV_Xw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_MXkphOffEeyhVr8NbeV_Xw">
+        <modelElement href="Reservas%20Tienda.uml#_Jc9SM-ffEeyhVr8NbeV_Xw"/>
+        <type xmi:id="_MXkpheffEeyhVr8NbeV_Xw" name="Reserva">
+          <modelElement href="Reservas%20Tienda.uml#_JcAP8OffEeyhVr8NbeV_Xw"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_MXkphuffEeyhVr8NbeV_Xw" name="unidades">
+        <modelElement href="Reservas%20Tienda.uml#_Jc9SMeffEeyhVr8NbeV_Xw"/>
+        <cardinality xmi:id="_MXkph-ffEeyhVr8NbeV_Xw" label="1" max="1" min="1"/>
+        <type xmi:id="_MXkpiOffEeyhVr8NbeV_Xw" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_MXkpieffEeyhVr8NbeV_Xw" name="cliente">
+        <modelElement href="Reservas%20Tienda.uml#_Jc9SMuffEeyhVr8NbeV_Xw"/>
+        <cardinality xmi:id="_MXkpiuffEeyhVr8NbeV_Xw" label="1" max="1" min="1"/>
+        <type xmi:id="_MXkpi-ffEeyhVr8NbeV_Xw" name="Cliente">
+          <modelElement href="Reservas%20Tienda.uml#_Jb3tEOffEeyhVr8NbeV_Xw"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_MbTSoOffEeyhVr8NbeV_Xw" comments="_Pe75kOgdEey6PfYDKKVB7A" targetConnectionVisual="_PfJU8OgdEey6PfYDKKVB7A" name="ProveedorRopa" associationsOut="_MbECEOffEeyhVr8NbeV_Xw" generalizations="_MaYFkOffEeyhVr8NbeV_Xw">
+    <modelElement href="Reservas%20Tienda.uml#_Jb_B0uffEeyhVr8NbeV_Xw"/>
+    <visualProperties xmi:id="_MbTSoeffEeyhVr8NbeV_Xw" position="238.0,184.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_MbTSouffEeyhVr8NbeV_Xw" label="+"/>
+    <attributes xmi:id="_MbTSo-ffEeyhVr8NbeV_Xw" name="tienda">
+      <modelElement href="Reservas%20Tienda.uml#_JdFOBeffEeyhVr8NbeV_Xw"/>
+      <stereotypes xmi:id="_ZYbigOgCEeyrdOCi8Lg5_g" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_ZYcJkOgCEeyrdOCi8Lg5_g" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_ZYfz8OgCEeyrdOCi8Lg5_g" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_VYofkOgXEeylOIr2X-lFjw" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_VYpGoOgXEeylOIr2X-lFjw" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_VYt_IOgXEeylOIr2X-lFjw" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_5xFGAOgcEey6PfYDKKVB7A" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_5xFtEOgcEey6PfYDKKVB7A" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_5xJXcOgcEey6PfYDKKVB7A" name="LegacyStyledElement"/>
+      <visibility xmi:id="_MbTSpeffEeyhVr8NbeV_Xw" label="~"/>
+      <cardinality xmi:id="_MbTSpuffEeyhVr8NbeV_Xw" label="1" max="1" min="1"/>
+      <type xmi:id="_MbTSp-ffEeyhVr8NbeV_Xw" name="Tienda">
+        <modelElement href="Reservas%20Tienda.uml#_JcCsMOffEeyhVr8NbeV_Xw"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_MbTSqOffEeyhVr8NbeV_Xw" name="enviarProductos">
+      <modelElement href="Reservas%20Tienda.uml#_Jb_B0-ffEeyhVr8NbeV_Xw"/>
+      <stereotypes xmi:id="_MbTSqeffEeyhVr8NbeV_Xw" name="Generics">
+        <modelElement href="Reservas%20Tienda.uml#_Jb_o4OffEeyhVr8NbeV_Xw"/>
+      </stereotypes>
+      <stereotypes xmi:id="_MbTSquffEeyhVr8NbeV_Xw" name="LegacyStyledElement">
+        <modelElement href="Reservas%20Tienda.uml#_Jb_o4effEeyhVr8NbeV_Xw"/>
+      </stereotypes>
+      <stereotypes xmi:id="_MbTSq-ffEeyhVr8NbeV_Xw" name="Annotations">
+        <modelElement href="Reservas%20Tienda.uml#_Jb_o4uffEeyhVr8NbeV_Xw"/>
+      </stereotypes>
+      <visibility xmi:id="_MbTSrOffEeyhVr8NbeV_Xw" label="+"/>
+      <cardinality xmi:id="_MbTSreffEeyhVr8NbeV_Xw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_MbTSruffEeyhVr8NbeV_Xw">
+        <modelElement href="Reservas%20Tienda.uml#_JdBjouffEeyhVr8NbeV_Xw"/>
+        <type xmi:id="_MbTSr-ffEeyhVr8NbeV_Xw" name="ArrayList">
+          <modelElement href="Reservas%20Tienda.uml#_Jc618uffEeyhVr8NbeV_Xw"/>
+        </type>
+      </outParameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_MZ6yluffEeyhVr8NbeV_Xw" comments="_PyJJcOgdEey6PfYDKKVB7A" targetConnectionVisual="_PyJwgOgdEey6PfYDKKVB7A" name="ProveedorMaterialOficina" associationsOut="_MZpFwOffEeyhVr8NbeV_Xw" generalizations="_MY6tAOffEeyhVr8NbeV_Xw">
+    <modelElement href="Reservas%20Tienda.uml#_Jb-awOffEeyhVr8NbeV_Xw"/>
+    <visualProperties xmi:id="_MZ6yl-ffEeyhVr8NbeV_Xw" position="573.0,187.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_MZ6ymOffEeyhVr8NbeV_Xw" label="+"/>
+    <attributes xmi:id="_MZ6ymeffEeyhVr8NbeV_Xw" name="tienda">
+      <modelElement href="Reservas%20Tienda.uml#_JdFOA-ffEeyhVr8NbeV_Xw"/>
+      <stereotypes xmi:id="_ZYa7cOgCEeyrdOCi8Lg5_g" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_ZYa7cegCEeyrdOCi8Lg5_g" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_ZYgbAOgCEeyrdOCi8Lg5_g" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_VYn4gOgXEeylOIr2X-lFjw" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_VYn4gegXEeylOIr2X-lFjw" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_VYumMOgXEeylOIr2X-lFjw" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_5xD34OgcEey6PfYDKKVB7A" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_5xEe8OgcEey6PfYDKKVB7A" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_5xJXcegcEey6PfYDKKVB7A" name="LegacyStyledElement"/>
+      <visibility xmi:id="_MZ6ym-ffEeyhVr8NbeV_Xw" label="~"/>
+      <cardinality xmi:id="_MZ6ynOffEeyhVr8NbeV_Xw" label="1" max="1" min="1"/>
+      <type xmi:id="_MZ6yneffEeyhVr8NbeV_Xw" name="Tienda">
+        <modelElement href="Reservas%20Tienda.uml#_JcCsMOffEeyhVr8NbeV_Xw"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_MZ6ynuffEeyhVr8NbeV_Xw" name="enviarProductos">
+      <modelElement href="Reservas%20Tienda.uml#_Jb-aweffEeyhVr8NbeV_Xw"/>
+      <stereotypes xmi:id="_MZ6yn-ffEeyhVr8NbeV_Xw" name="Generics">
+        <modelElement href="Reservas%20Tienda.uml#_Jb-awuffEeyhVr8NbeV_Xw"/>
+      </stereotypes>
+      <stereotypes xmi:id="_MZ6yoOffEeyhVr8NbeV_Xw" name="LegacyStyledElement">
+        <modelElement href="Reservas%20Tienda.uml#_Jb-aw-ffEeyhVr8NbeV_Xw"/>
+      </stereotypes>
+      <stereotypes xmi:id="_MZ6yoeffEeyhVr8NbeV_Xw" name="Annotations">
+        <modelElement href="Reservas%20Tienda.uml#_Jb_B0OffEeyhVr8NbeV_Xw"/>
+      </stereotypes>
+      <visibility xmi:id="_MZ6youffEeyhVr8NbeV_Xw" label="+"/>
+      <cardinality xmi:id="_MZ6yo-ffEeyhVr8NbeV_Xw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_MZ6ypOffEeyhVr8NbeV_Xw">
+        <modelElement href="Reservas%20Tienda.uml#_JdBjoeffEeyhVr8NbeV_Xw"/>
+        <type xmi:id="_MZ6ypeffEeyhVr8NbeV_Xw" name="ArrayList">
+          <modelElement href="Reservas%20Tienda.uml#_Jc618uffEeyhVr8NbeV_Xw"/>
+        </type>
+      </outParameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_MiKIlOffEeyhVr8NbeV_Xw" comments="_PMQ1MOgdEey6PfYDKKVB7A" targetConnectionVisual="_PMVGoOgdEey6PfYDKKVB7A" name="Tienda" associationsIn="_MWttkOffEeyhVr8NbeV_Xw _MZpFwOffEeyhVr8NbeV_Xw _MbECEOffEeyhVr8NbeV_Xw" associationsOut="_MXg-0OffEeyhVr8NbeV_Xw _MiHsUOffEeyhVr8NbeV_Xw">
+    <modelElement href="Reservas%20Tienda.uml#_JcCsMOffEeyhVr8NbeV_Xw"/>
+    <visualProperties xmi:id="_MiKIleffEeyhVr8NbeV_Xw" position="312.0,495.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_MiKIl-ffEeyhVr8NbeV_Xw" label="+"/>
+    <attributes xmi:id="_MiKImOffEeyhVr8NbeV_Xw" defaultValue="new TreeMap&lt;Integer, Producto>()" name="productos">
+      <modelElement href="Reservas%20Tienda.uml#_JdGcIOffEeyhVr8NbeV_Xw"/>
+      <stereotypes xmi:id="_ZYX4IOgCEeyrdOCi8Lg5_g" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_ZYYfMOgCEeyrdOCi8Lg5_g" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_ZYhCEOgCEeyrdOCi8Lg5_g" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_VYjnEOgXEeylOIr2X-lFjw" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_VYk1MOgXEeylOIr2X-lFjw" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_VYumMegXEeylOIr2X-lFjw" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_5xA0kOgcEey6PfYDKKVB7A" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_5xBboOgcEey6PfYDKKVB7A" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_5xJ-gOgcEey6PfYDKKVB7A" name="LegacyStyledElement"/>
+      <visibility xmi:id="_MiKImeffEeyhVr8NbeV_Xw" label="+"/>
+      <cardinality xmi:id="_MiKImuffEeyhVr8NbeV_Xw" label="1" max="1" min="1"/>
+      <type xmi:id="_MiKIm-ffEeyhVr8NbeV_Xw" name="Producto">
+        <modelElement href="Reservas%20Tienda.uml#_Jb7-gOffEeyhVr8NbeV_Xw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_MiKInOffEeyhVr8NbeV_Xw" defaultValue="new ArrayList&lt;Cliente>()" name="clientes">
+      <modelElement href="Reservas%20Tienda.uml#_JdGcJOffEeyhVr8NbeV_Xw"/>
+      <stereotypes xmi:id="_ZYdXsOgCEeyrdOCi8Lg5_g" name="Generics"/>
+      <stereotypes xmi:id="_ZYdXsegCEeyrdOCi8Lg5_g" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_ZYd-wOgCEeyrdOCi8Lg5_g" name="Generics"/>
+      <stereotypes xmi:id="_ZYd-wegCEeyrdOCi8Lg5_g" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_ZYhpIOgCEeyrdOCi8Lg5_g" name="Generics"/>
+      <stereotypes xmi:id="_ZYhpIegCEeyrdOCi8Lg5_g" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_VYqUwegXEeylOIr2X-lFjw" name="Generics"/>
+      <stereotypes xmi:id="_VYq70OgXEeylOIr2X-lFjw" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_VYri4OgXEeylOIr2X-lFjw" name="Generics"/>
+      <stereotypes xmi:id="_VYsJ8OgXEeylOIr2X-lFjw" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_VYvNQOgXEeylOIr2X-lFjw" name="Generics"/>
+      <stereotypes xmi:id="_VYvNQegXEeylOIr2X-lFjw" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_5xG7MOgcEey6PfYDKKVB7A" name="Generics"/>
+      <stereotypes xmi:id="_5xG7MegcEey6PfYDKKVB7A" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_5xHiQOgcEey6PfYDKKVB7A" name="Generics"/>
+      <stereotypes xmi:id="_5xHiQegcEey6PfYDKKVB7A" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_5xKlkOgcEey6PfYDKKVB7A" name="Generics"/>
+      <stereotypes xmi:id="_5xKlkegcEey6PfYDKKVB7A" name="LegacyStyledElement"/>
+      <visibility xmi:id="_MiKIn-ffEeyhVr8NbeV_Xw" label="-"/>
+      <cardinality xmi:id="_MiKIoOffEeyhVr8NbeV_Xw" label="1" max="1" min="1"/>
+      <type xmi:id="_MiKIoeffEeyhVr8NbeV_Xw" name="ArrayList">
+        <modelElement href="Reservas%20Tienda.uml#_Jc618uffEeyhVr8NbeV_Xw"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_MiKIouffEeyhVr8NbeV_Xw" comments="_PMgs0OgdEey6PfYDKKVB7A" targetConnectionVisual="_PMhT4OgdEey6PfYDKKVB7A" name="buscaCliente">
+      <modelElement href="Reservas%20Tienda.uml#_JcD6VOffEeyhVr8NbeV_Xw"/>
+      <visibility xmi:id="_MiKIo-ffEeyhVr8NbeV_Xw" label="+"/>
+      <cardinality xmi:id="_MiKIpOffEeyhVr8NbeV_Xw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_MiKIpeffEeyhVr8NbeV_Xw">
+        <modelElement href="Reservas%20Tienda.uml#_JdAVguffEeyhVr8NbeV_Xw"/>
+        <type xmi:id="_MiKIpuffEeyhVr8NbeV_Xw" name="Cliente">
+          <modelElement href="Reservas%20Tienda.uml#_Jb3tEOffEeyhVr8NbeV_Xw"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_MiKIp-ffEeyhVr8NbeV_Xw" name="dni">
+        <modelElement href="Reservas%20Tienda.uml#_JcD6VeffEeyhVr8NbeV_Xw"/>
+        <cardinality xmi:id="_MiKIqOffEeyhVr8NbeV_Xw" label="1" max="1" min="1"/>
+        <type xmi:id="_MiKIqeffEeyhVr8NbeV_Xw" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_MiKIquffEeyhVr8NbeV_Xw" comments="_PMllUOgdEey6PfYDKKVB7A" targetConnectionVisual="_PMmzcOgdEey6PfYDKKVB7A" name="actualizaStock">
+      <modelElement href="Reservas%20Tienda.uml#_JcD6VuffEeyhVr8NbeV_Xw"/>
+      <visibility xmi:id="_MiKIq-ffEeyhVr8NbeV_Xw" label="+"/>
+      <cardinality xmi:id="_MiKIrOffEeyhVr8NbeV_Xw" label="1..*" max="-1" min="1"/>
+      <outParameters xmi:id="_MiKIreffEeyhVr8NbeV_Xw">
+        <modelElement href="Reservas%20Tienda.uml#_JcEhYOffEeyhVr8NbeV_Xw"/>
+        <type xmi:id="_MiKIruffEeyhVr8NbeV_Xw" name="Reserva">
+          <modelElement href="Reservas%20Tienda.uml#_JcAP8OffEeyhVr8NbeV_Xw"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_MiKIr-ffEeyhVr8NbeV_Xw" name="idProducto">
+        <modelElement href="Reservas%20Tienda.uml#_JcD6V-ffEeyhVr8NbeV_Xw"/>
+        <cardinality xmi:id="_MiKIsOffEeyhVr8NbeV_Xw" label="1" max="1" min="1"/>
+        <type xmi:id="_MiKIseffEeyhVr8NbeV_Xw" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_MiKIsuffEeyhVr8NbeV_Xw" name="cantidad">
+        <modelElement href="Reservas%20Tienda.uml#_JcD6WOffEeyhVr8NbeV_Xw"/>
+        <cardinality xmi:id="_MiKIs-ffEeyhVr8NbeV_Xw" label="1" max="1" min="1"/>
+        <type xmi:id="_MiKItOffEeyhVr8NbeV_Xw" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_MiKIteffEeyhVr8NbeV_Xw" comments="_PMvWUOgdEey6PfYDKKVB7A" targetConnectionVisual="_PMxLgOgdEey6PfYDKKVB7A" name="nuevaVenta">
+      <modelElement href="Reservas%20Tienda.uml#_JcEhYuffEeyhVr8NbeV_Xw"/>
+      <visibility xmi:id="_MiKItuffEeyhVr8NbeV_Xw" label="+"/>
+      <cardinality xmi:id="_MiKIt-ffEeyhVr8NbeV_Xw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_MiKIuOffEeyhVr8NbeV_Xw">
+        <modelElement href="Reservas%20Tienda.uml#_JcEhZuffEeyhVr8NbeV_Xw"/>
+        <type xmi:id="_MiKIueffEeyhVr8NbeV_Xw" name="boolean">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_MiKIuuffEeyhVr8NbeV_Xw" name="idProducto">
+        <modelElement href="Reservas%20Tienda.uml#_JcEhY-ffEeyhVr8NbeV_Xw"/>
+        <cardinality xmi:id="_MiKIu-ffEeyhVr8NbeV_Xw" label="1" max="1" min="1"/>
+        <type xmi:id="_MiKIvOffEeyhVr8NbeV_Xw" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_MiKIveffEeyhVr8NbeV_Xw" name="dniCliente">
+        <modelElement href="Reservas%20Tienda.uml#_JcEhZOffEeyhVr8NbeV_Xw"/>
+        <cardinality xmi:id="_MiKIvuffEeyhVr8NbeV_Xw" label="1" max="1" min="1"/>
+        <type xmi:id="_MiKIv-ffEeyhVr8NbeV_Xw" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_MiKIwOffEeyhVr8NbeV_Xw" name="cantidad">
+        <modelElement href="Reservas%20Tienda.uml#_JcEhZeffEeyhVr8NbeV_Xw"/>
+        <cardinality xmi:id="_MiKIweffEeyhVr8NbeV_Xw" label="1" max="1" min="1"/>
+        <type xmi:id="_MiKIwuffEeyhVr8NbeV_Xw" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_MiKIw-ffEeyhVr8NbeV_Xw" comments="_PM3SIOgdEey6PfYDKKVB7A" targetConnectionVisual="_PM35MOgdEey6PfYDKKVB7A" name="productosConReserva">
+      <modelElement href="Reservas%20Tienda.uml#_JcEhZ-ffEeyhVr8NbeV_Xw"/>
+      <visibility xmi:id="_MiKIxOffEeyhVr8NbeV_Xw" label="+"/>
+      <cardinality xmi:id="_MiKIxeffEeyhVr8NbeV_Xw" label="1..*" max="-1" min="1"/>
+      <outParameters xmi:id="_MiKIxuffEeyhVr8NbeV_Xw">
+        <modelElement href="Reservas%20Tienda.uml#_JcEhaOffEeyhVr8NbeV_Xw"/>
+        <type xmi:id="_MiKIx-ffEeyhVr8NbeV_Xw" name="Producto">
+          <modelElement href="Reservas%20Tienda.uml#_Jb7-gOffEeyhVr8NbeV_Xw"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_MiKIyOffEeyhVr8NbeV_Xw" comments="_PNQTsOgdEey6PfYDKKVB7A" targetConnectionVisual="_PNQ6wOgdEey6PfYDKKVB7A" name="mostrarProductos">
+      <modelElement href="Reservas%20Tienda.uml#_JcFIcOffEeyhVr8NbeV_Xw"/>
+      <visibility xmi:id="_MiKIyeffEeyhVr8NbeV_Xw" label="+"/>
+      <cardinality xmi:id="_MiKIyuffEeyhVr8NbeV_Xw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_MiKIy-ffEeyhVr8NbeV_Xw">
+        <modelElement href="Reservas%20Tienda.uml#_JcFIceffEeyhVr8NbeV_Xw"/>
+        <type xmi:id="_MiKIzOffEeyhVr8NbeV_Xw" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_MiKIzeffEeyhVr8NbeV_Xw" comments="_PNT-EOgdEey6PfYDKKVB7A" targetConnectionVisual="_PNT-EegdEey6PfYDKKVB7A" name="anhadeProducto">
+      <modelElement href="Reservas%20Tienda.uml#_Jc_udOffEeyhVr8NbeV_Xw"/>
+      <visibility xmi:id="_MiKIzuffEeyhVr8NbeV_Xw" label="+"/>
+      <cardinality xmi:id="_MiKIz-ffEeyhVr8NbeV_Xw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_MiKI0OffEeyhVr8NbeV_Xw">
+        <modelElement href="Reservas%20Tienda.uml#_Jc_uduffEeyhVr8NbeV_Xw"/>
+        <type xmi:id="_MiKI0effEeyhVr8NbeV_Xw" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_MiKI0uffEeyhVr8NbeV_Xw" name="producto">
+        <modelElement href="Reservas%20Tienda.uml#_Jc_udeffEeyhVr8NbeV_Xw"/>
+        <cardinality xmi:id="_MiKI0-ffEeyhVr8NbeV_Xw" label="1" max="1" min="1"/>
+        <type xmi:id="_MiKI1OffEeyhVr8NbeV_Xw" name="Producto">
+          <modelElement href="Reservas%20Tienda.uml#_Jb7-gOffEeyhVr8NbeV_Xw"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_MiKI1effEeyhVr8NbeV_Xw" comments="_PNXocOgdEey6PfYDKKVB7A" targetConnectionVisual="_PNYPgOgdEey6PfYDKKVB7A" name="anhadeCliente">
+      <modelElement href="Reservas%20Tienda.uml#_JdAVgOffEeyhVr8NbeV_Xw"/>
+      <visibility xmi:id="_MiKI1uffEeyhVr8NbeV_Xw" label="+"/>
+      <cardinality xmi:id="_MiKI1-ffEeyhVr8NbeV_Xw" label="1" max="1" min="1"/>
+      <parameters xmi:id="_MiKI2OffEeyhVr8NbeV_Xw" name="cliente">
+        <modelElement href="Reservas%20Tienda.uml#_JdAVgeffEeyhVr8NbeV_Xw"/>
+        <cardinality xmi:id="_MiKI2effEeyhVr8NbeV_Xw" label="1" max="1" min="1"/>
+        <type xmi:id="_MiKI2uffEeyhVr8NbeV_Xw" name="Cliente">
+          <modelElement href="Reservas%20Tienda.uml#_Jb3tEOffEeyhVr8NbeV_Xw"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_MiKI2-ffEeyhVr8NbeV_Xw" comments="_PNcg8OgdEey6PfYDKKVB7A" targetConnectionVisual="_PNdIAOgdEey6PfYDKKVB7A" name="recibeProductos">
+      <modelElement href="Reservas%20Tienda.uml#_JdAVg-ffEeyhVr8NbeV_Xw"/>
+      <visibility xmi:id="_MiKI3OffEeyhVr8NbeV_Xw" label="+"/>
+      <cardinality xmi:id="_MiKI3effEeyhVr8NbeV_Xw" label="1..*" max="-1" min="1"/>
+      <outParameters xmi:id="_MiKI3uffEeyhVr8NbeV_Xw">
+        <modelElement href="Reservas%20Tienda.uml#_JdAVheffEeyhVr8NbeV_Xw"/>
+        <type xmi:id="_MiKI3-ffEeyhVr8NbeV_Xw" name="Producto">
+          <modelElement href="Reservas%20Tienda.uml#_Jb7-gOffEeyhVr8NbeV_Xw"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_MiKI4OffEeyhVr8NbeV_Xw" name="p">
+        <modelElement href="Reservas%20Tienda.uml#_JdAVhOffEeyhVr8NbeV_Xw"/>
+        <cardinality xmi:id="_MiKI4effEeyhVr8NbeV_Xw" label="1" max="1" min="1"/>
+        <type xmi:id="_MiKI4uffEeyhVr8NbeV_Xw" name="Proveedor">
+          <modelElement href="Reservas%20Tienda.uml#_Jb9zsOffEeyhVr8NbeV_Xw"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_MiKI4-ffEeyhVr8NbeV_Xw" comments="_PNinkOgdEey6PfYDKKVB7A" targetConnectionVisual="_PNlD0OgdEey6PfYDKKVB7A" name="anadirOferta">
+      <modelElement href="Reservas%20Tienda.uml#_JdAVh-ffEeyhVr8NbeV_Xw"/>
+      <visibility xmi:id="_MiKI5OffEeyhVr8NbeV_Xw" label="+"/>
+      <cardinality xmi:id="_MiKI5effEeyhVr8NbeV_Xw" label="1" max="1" min="1"/>
+      <parameters xmi:id="_MiKI5uffEeyhVr8NbeV_Xw" name="o">
+        <modelElement href="Reservas%20Tienda.uml#_JdAViOffEeyhVr8NbeV_Xw"/>
+        <cardinality xmi:id="_MiKI5-ffEeyhVr8NbeV_Xw" label="1" max="1" min="1"/>
+        <type xmi:id="_MiKI6OffEeyhVr8NbeV_Xw" name="Oferta">
+          <modelElement href="Reservas%20Tienda.uml#_Jb7Xc-ffEeyhVr8NbeV_Xw"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_MiKI6effEeyhVr8NbeV_Xw" name="codigoProducto">
+        <modelElement href="Reservas%20Tienda.uml#_JdAVieffEeyhVr8NbeV_Xw"/>
+        <cardinality xmi:id="_MiKI6uffEeyhVr8NbeV_Xw" label="1" max="1" min="1"/>
+        <type xmi:id="_MiKI6-ffEeyhVr8NbeV_Xw" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:InterfaceVisual" xmi:id="_MX_f8OffEeyhVr8NbeV_Xw" comments="_QAgVkOgdEey6PfYDKKVB7A" targetConnectionVisual="_QAhjsOgdEey6PfYDKKVB7A" name="Proveedor" subclassedBy="_MY6tAOffEeyhVr8NbeV_Xw _MaYFkOffEeyhVr8NbeV_Xw">
+    <modelElement href="Reservas%20Tienda.uml#_Jb9zsOffEeyhVr8NbeV_Xw"/>
+    <visualProperties xmi:id="_MX_f8effEeyhVr8NbeV_Xw" position="423.0,31.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_MX_f8uffEeyhVr8NbeV_Xw" label="+"/>
+    <operations xmi:id="_MX_f8-ffEeyhVr8NbeV_Xw" name="enviarProductos">
+      <modelElement href="Reservas%20Tienda.uml#_Jb9zseffEeyhVr8NbeV_Xw"/>
+      <stereotypes xmi:id="_MX_f9OffEeyhVr8NbeV_Xw" name="Generics">
+        <modelElement href="Reservas%20Tienda.uml#_Jb9zsuffEeyhVr8NbeV_Xw"/>
+      </stereotypes>
+      <visibility xmi:id="_MX_f9effEeyhVr8NbeV_Xw" label="+"/>
+      <cardinality xmi:id="_MX_f9uffEeyhVr8NbeV_Xw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_MX_f9-ffEeyhVr8NbeV_Xw">
+        <modelElement href="Reservas%20Tienda.uml#_JdBjoOffEeyhVr8NbeV_Xw"/>
+        <type xmi:id="_MX_f-OffEeyhVr8NbeV_Xw" name="ArrayList">
+          <modelElement href="Reservas%20Tienda.uml#_Jc618uffEeyhVr8NbeV_Xw"/>
+        </type>
+      </outParameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:InterfaceVisual" xmi:id="_MVsZ4OffEeyhVr8NbeV_Xw" comments="_QnmKwegdEey6PfYDKKVB7A" targetConnectionVisual="_QnnY4OgdEey6PfYDKKVB7A" name="Oferta" subclassedBy="_MWN-UOffEeyhVr8NbeV_Xw">
+    <modelElement href="Reservas%20Tienda.uml#_Jb7Xc-ffEeyhVr8NbeV_Xw"/>
+    <visualProperties xmi:id="_MVsZ4effEeyhVr8NbeV_Xw" position="867.0,879.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_MVsZ4uffEeyhVr8NbeV_Xw" label="+"/>
+    <operations xmi:id="_MVsZ4-ffEeyhVr8NbeV_Xw" name="seleccionarOferta">
+      <modelElement href="Reservas%20Tienda.uml#_Jc7dA-ffEeyhVr8NbeV_Xw"/>
+      <visibility xmi:id="_MVsZ5OffEeyhVr8NbeV_Xw" label="+"/>
+      <cardinality xmi:id="_MVsZ5effEeyhVr8NbeV_Xw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_MVtA8OffEeyhVr8NbeV_Xw">
+        <modelElement href="Reservas%20Tienda.uml#_Jc7dBeffEeyhVr8NbeV_Xw"/>
+        <type xmi:id="_MVtA8effEeyhVr8NbeV_Xw" name="Producto">
+          <modelElement href="Reservas%20Tienda.uml#_Jb7-gOffEeyhVr8NbeV_Xw"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_MVtA8uffEeyhVr8NbeV_Xw" name="p">
+        <modelElement href="Reservas%20Tienda.uml#_Jc7dBOffEeyhVr8NbeV_Xw"/>
+        <cardinality xmi:id="_MVtA8-ffEeyhVr8NbeV_Xw" label="1" max="1" min="1"/>
+        <type xmi:id="_MVtA9OffEeyhVr8NbeV_Xw" name="Producto">
+          <modelElement href="Reservas%20Tienda.uml#_Jb7-gOffEeyhVr8NbeV_Xw"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_MW2QcOffEeyhVr8NbeV_Xw" comments="_QTlCkOgdEey6PfYDKKVB7A" targetConnectionVisual="_QTlpoOgdEey6PfYDKKVB7A" name="OfertaRopa" associationsOut="_MWttkOffEeyhVr8NbeV_Xw" generalizations="_MWN-UOffEeyhVr8NbeV_Xw">
+    <modelElement href="Reservas%20Tienda.uml#_Jb7XdOffEeyhVr8NbeV_Xw"/>
+    <visualProperties xmi:id="_MW2QceffEeyhVr8NbeV_Xw" position="854.0,1007.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_MW2QcuffEeyhVr8NbeV_Xw" label="+"/>
+    <attributes xmi:id="_MW23gOffEeyhVr8NbeV_Xw" name="tienda">
+      <modelElement href="Reservas%20Tienda.uml#_JdD_4-ffEeyhVr8NbeV_Xw"/>
+      <stereotypes xmi:id="_ZYU00OgCEeyrdOCi8Lg5_g" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_ZYXREOgCEeyrdOCi8Lg5_g" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_ZYiQMOgCEeyrdOCi8Lg5_g" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_VYhK0OgXEeylOIr2X-lFjw" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_VYjAAOgXEeylOIr2X-lFjw" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_VYv0UOgXEeylOIr2X-lFjw" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_5w9xQOgcEey6PfYDKKVB7A" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_5xANgOgcEey6PfYDKKVB7A" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_5xLMoOgcEey6PfYDKKVB7A" name="LegacyStyledElement"/>
+      <visibility xmi:id="_MW23guffEeyhVr8NbeV_Xw" label="~"/>
+      <cardinality xmi:id="_MW23g-ffEeyhVr8NbeV_Xw" label="1" max="1" min="1"/>
+      <type xmi:id="_MW23hOffEeyhVr8NbeV_Xw" name="Tienda">
+        <modelElement href="Reservas%20Tienda.uml#_JcCsMOffEeyhVr8NbeV_Xw"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_MW23heffEeyhVr8NbeV_Xw" name="seleccionarOferta">
+      <modelElement href="Reservas%20Tienda.uml#_Jc8EEeffEeyhVr8NbeV_Xw"/>
+      <stereotypes xmi:id="_MW23huffEeyhVr8NbeV_Xw" name="LegacyStyledElement">
+        <modelElement href="Reservas%20Tienda.uml#_Jc8EFOffEeyhVr8NbeV_Xw"/>
+      </stereotypes>
+      <stereotypes xmi:id="_MW23h-ffEeyhVr8NbeV_Xw" name="Annotations">
+        <modelElement href="Reservas%20Tienda.uml#_Jc8EFeffEeyhVr8NbeV_Xw"/>
+      </stereotypes>
+      <visibility xmi:id="_MW23iOffEeyhVr8NbeV_Xw" label="+"/>
+      <cardinality xmi:id="_MW23ieffEeyhVr8NbeV_Xw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_MW23iuffEeyhVr8NbeV_Xw">
+        <modelElement href="Reservas%20Tienda.uml#_Jc8EE-ffEeyhVr8NbeV_Xw"/>
+        <type xmi:id="_MW23i-ffEeyhVr8NbeV_Xw" name="Producto">
+          <modelElement href="Reservas%20Tienda.uml#_Jb7-gOffEeyhVr8NbeV_Xw"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_MW23jOffEeyhVr8NbeV_Xw" name="p">
+        <modelElement href="Reservas%20Tienda.uml#_Jc8EEuffEeyhVr8NbeV_Xw"/>
+        <cardinality xmi:id="_MW23jeffEeyhVr8NbeV_Xw" label="1" max="1" min="1"/>
+        <type xmi:id="_MW23juffEeyhVr8NbeV_Xw" name="Producto">
+          <modelElement href="Reservas%20Tienda.uml#_Jb7-gOffEeyhVr8NbeV_Xw"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_MUC0EOffEeyhVr8NbeV_Xw" comments="_MT1_wOffEeyhVr8NbeV_Xw" targetConnectionVisual="_MT308OffEeyhVr8NbeV_Xw" name="ClienteNormal" generalizations="_MTpygOffEeyhVr8NbeV_Xw">
+    <modelElement href="Reservas%20Tienda.uml#_Jb47NuffEeyhVr8NbeV_Xw"/>
+    <visualProperties xmi:id="_MUC0EeffEeyhVr8NbeV_Xw" position="1070.0,1201.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_MUC0EuffEeyhVr8NbeV_Xw" label="+"/>
+    <operations xmi:id="_MUC0E-ffEeyhVr8NbeV_Xw" comments="_MT5DEOffEeyhVr8NbeV_Xw" targetConnectionVisual="_MT_JsOffEeyhVr8NbeV_Xw" name="ClienteNormal">
+      <modelElement href="Reservas%20Tienda.uml#_Jb47N-ffEeyhVr8NbeV_Xw"/>
+      <keywords xmi:id="_MUC0FOffEeyhVr8NbeV_Xw" keyword="create"/>
+      <visibility xmi:id="_MUC0FeffEeyhVr8NbeV_Xw" label="+"/>
+      <cardinality xmi:id="_MUC0FuffEeyhVr8NbeV_Xw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_MUC0F-ffEeyhVr8NbeV_Xw">
+        <modelElement href="Reservas%20Tienda.uml#_Jb5iQuffEeyhVr8NbeV_Xw"/>
+        <type xmi:id="_MUC0GOffEeyhVr8NbeV_Xw" name="ClienteNormal">
+          <modelElement href="Reservas%20Tienda.uml#_Jb47NuffEeyhVr8NbeV_Xw"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_MUC0GeffEeyhVr8NbeV_Xw" name="nombre">
+        <modelElement href="Reservas%20Tienda.uml#_Jb47OOffEeyhVr8NbeV_Xw"/>
+        <cardinality xmi:id="_MUC0GuffEeyhVr8NbeV_Xw" label="1" max="1" min="1"/>
+        <type xmi:id="_MUC0G-ffEeyhVr8NbeV_Xw" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_MUC0HOffEeyhVr8NbeV_Xw" name="dni">
+        <modelElement href="Reservas%20Tienda.uml#_Jb47OeffEeyhVr8NbeV_Xw"/>
+        <cardinality xmi:id="_MUC0HeffEeyhVr8NbeV_Xw" label="1" max="1" min="1"/>
+        <type xmi:id="_MUC0HuffEeyhVr8NbeV_Xw" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_MUC0H-ffEeyhVr8NbeV_Xw" comments="_MUAX0OffEeyhVr8NbeV_Xw" targetConnectionVisual="_MUAX0effEeyhVr8NbeV_Xw" name="getNombre">
+      <modelElement href="Reservas%20Tienda.uml#_Jb5iQ-ffEeyhVr8NbeV_Xw"/>
+      <visibility xmi:id="_MUC0IOffEeyhVr8NbeV_Xw" label="+"/>
+      <cardinality xmi:id="_MUC0IeffEeyhVr8NbeV_Xw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_MUC0IuffEeyhVr8NbeV_Xw">
+        <modelElement href="Reservas%20Tienda.uml#_Jb5iROffEeyhVr8NbeV_Xw"/>
+        <type xmi:id="_MUC0I-ffEeyhVr8NbeV_Xw" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_MUC0JOffEeyhVr8NbeV_Xw" comments="_MUAX0uffEeyhVr8NbeV_Xw" targetConnectionVisual="_MUCNAOffEeyhVr8NbeV_Xw" name="getDni">
+      <modelElement href="Reservas%20Tienda.uml#_Jb5iReffEeyhVr8NbeV_Xw"/>
+      <visibility xmi:id="_MUC0JeffEeyhVr8NbeV_Xw" label="+"/>
+      <cardinality xmi:id="_MUC0JuffEeyhVr8NbeV_Xw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_MUC0J-ffEeyhVr8NbeV_Xw">
+        <modelElement href="Reservas%20Tienda.uml#_Jb5iRuffEeyhVr8NbeV_Xw"/>
+        <type xmi:id="_MUC0KOffEeyhVr8NbeV_Xw" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_MTfacuffEeyhVr8NbeV_Xw" comments="_MTZT0OffEeyhVr8NbeV_Xw" targetConnectionVisual="_MTeMUOffEeyhVr8NbeV_Xw" name="Cliente" abstractClass="true" associationsIn="_MceXUOffEeyhVr8NbeV_Xw" subclassedBy="_MTpygOffEeyhVr8NbeV_Xw _MUSEoOffEeyhVr8NbeV_Xw">
+    <modelElement href="Reservas%20Tienda.uml#_Jb3tEOffEeyhVr8NbeV_Xw"/>
+    <visualProperties xmi:id="_MTfac-ffEeyhVr8NbeV_Xw" position="1146.0,499.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_MTfadOffEeyhVr8NbeV_Xw" label="+"/>
+    <attributes xmi:id="_MTfadeffEeyhVr8NbeV_Xw" name="nombre">
+      <modelElement href="Reservas%20Tienda.uml#_JdCxweffEeyhVr8NbeV_Xw"/>
+      <stereotypes xmi:id="_MTfaduffEeyhVr8NbeV_Xw" name="LegacyStyledElement">
+        <modelElement href="Reservas%20Tienda.uml#_JdDY0OffEeyhVr8NbeV_Xw"/>
+      </stereotypes>
+      <visibility xmi:id="_MTfad-ffEeyhVr8NbeV_Xw" label="+"/>
+      <cardinality xmi:id="_MTfaeOffEeyhVr8NbeV_Xw" label="1" max="1" min="1"/>
+      <type xmi:id="_MTfaeeffEeyhVr8NbeV_Xw" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_MTfaeuffEeyhVr8NbeV_Xw" name="dni">
+      <modelElement href="Reservas%20Tienda.uml#_JdDY0-ffEeyhVr8NbeV_Xw"/>
+      <stereotypes xmi:id="_MTfae-ffEeyhVr8NbeV_Xw" name="LegacyStyledElement">
+        <modelElement href="Reservas%20Tienda.uml#_JdDY1OffEeyhVr8NbeV_Xw"/>
+      </stereotypes>
+      <visibility xmi:id="_MTfafOffEeyhVr8NbeV_Xw" label="-"/>
+      <cardinality xmi:id="_MTfafeffEeyhVr8NbeV_Xw" label="1" max="1" min="1"/>
+      <type xmi:id="_MTfafuffEeyhVr8NbeV_Xw" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_MTfaf-ffEeyhVr8NbeV_Xw" comments="_MTezYOffEeyhVr8NbeV_Xw" targetConnectionVisual="_MTezYeffEeyhVr8NbeV_Xw" name="Cliente">
+      <modelElement href="Reservas%20Tienda.uml#_Jb4UIOffEeyhVr8NbeV_Xw"/>
+      <keywords xmi:id="_MTfagOffEeyhVr8NbeV_Xw" keyword="create"/>
+      <visibility xmi:id="_MTfageffEeyhVr8NbeV_Xw" label="+"/>
+      <cardinality xmi:id="_MTfaguffEeyhVr8NbeV_Xw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_MTfag-ffEeyhVr8NbeV_Xw">
+        <modelElement href="Reservas%20Tienda.uml#_Jb47MeffEeyhVr8NbeV_Xw"/>
+        <type xmi:id="_MTfahOffEeyhVr8NbeV_Xw" name="Cliente">
+          <modelElement href="Reservas%20Tienda.uml#_Jb3tEOffEeyhVr8NbeV_Xw"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_MTfaheffEeyhVr8NbeV_Xw" name="nombre">
+        <modelElement href="Reservas%20Tienda.uml#_Jb4UIeffEeyhVr8NbeV_Xw"/>
+        <cardinality xmi:id="_MTfahuffEeyhVr8NbeV_Xw" label="1" max="1" min="1"/>
+        <type xmi:id="_MTfah-ffEeyhVr8NbeV_Xw" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_MTfaiOffEeyhVr8NbeV_Xw" name="dni">
+        <modelElement href="Reservas%20Tienda.uml#_Jb4UIuffEeyhVr8NbeV_Xw"/>
+        <cardinality xmi:id="_MTfaieffEeyhVr8NbeV_Xw" label="1" max="1" min="1"/>
+        <type xmi:id="_MTfaiuffEeyhVr8NbeV_Xw" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_MTfai-ffEeyhVr8NbeV_Xw" comments="_MTfacOffEeyhVr8NbeV_Xw" targetConnectionVisual="_MTfaceffEeyhVr8NbeV_Xw" name="getDni">
+      <modelElement href="Reservas%20Tienda.uml#_Jb47MuffEeyhVr8NbeV_Xw"/>
+      <visibility xmi:id="_MTfajOffEeyhVr8NbeV_Xw" label="+"/>
+      <cardinality xmi:id="_MTfajeffEeyhVr8NbeV_Xw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_MTfajuffEeyhVr8NbeV_Xw">
+        <modelElement href="Reservas%20Tienda.uml#_Jb47M-ffEeyhVr8NbeV_Xw"/>
+        <type xmi:id="_MTfaj-ffEeyhVr8NbeV_Xw" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_MTfakOffEeyhVr8NbeV_Xw" name="getDescuento">
+      <modelElement href="Reservas%20Tienda.uml#_Jb47NOffEeyhVr8NbeV_Xw"/>
+      <visibility xmi:id="_MTfakeffEeyhVr8NbeV_Xw" label="+"/>
+      <cardinality xmi:id="_MTfakuffEeyhVr8NbeV_Xw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_MTfak-ffEeyhVr8NbeV_Xw">
+        <modelElement href="Reservas%20Tienda.uml#_Jb47NeffEeyhVr8NbeV_Xw"/>
+        <type xmi:id="_MTfalOffEeyhVr8NbeV_Xw" name="double">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+        </type>
+      </outParameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_Mdr4Q-ffEeyhVr8NbeV_Xw" comments="_MdK64OffEeyhVr8NbeV_Xw" targetConnectionVisual="_Mdec4OffEeyhVr8NbeV_Xw" name="Reserva" abstractClass="true" associationsOut="_MceXUOffEeyhVr8NbeV_Xw" subclassedBy="_MeCdkOffEeyhVr8NbeV_Xw _MfhrUOffEeyhVr8NbeV_Xw">
+    <modelElement href="Reservas%20Tienda.uml#_JcAP8OffEeyhVr8NbeV_Xw"/>
+    <visualProperties xmi:id="_Mdr4ROffEeyhVr8NbeV_Xw" position="1562.0,795.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_Mdr4ReffEeyhVr8NbeV_Xw" label="+"/>
+    <attributes xmi:id="_Mdr4RuffEeyhVr8NbeV_Xw" name="unidades">
+      <modelElement href="Reservas%20Tienda.uml#_JdFOB-ffEeyhVr8NbeV_Xw"/>
+      <stereotypes xmi:id="_Mdr4R-ffEeyhVr8NbeV_Xw" name="LegacyStyledElement">
+        <modelElement href="Reservas%20Tienda.uml#_JdFOCOffEeyhVr8NbeV_Xw"/>
+      </stereotypes>
+      <visibility xmi:id="_Mdr4SOffEeyhVr8NbeV_Xw" label="+"/>
+      <cardinality xmi:id="_Mdr4SeffEeyhVr8NbeV_Xw" label="1" max="1" min="1"/>
+      <type xmi:id="_Mdr4SuffEeyhVr8NbeV_Xw" name="int">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_Mdr4S-ffEeyhVr8NbeV_Xw" name="cliente">
+      <modelElement href="Reservas%20Tienda.uml#_JdF1EuffEeyhVr8NbeV_Xw"/>
+      <stereotypes xmi:id="_ZYcJkegCEeyrdOCi8Lg5_g" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_ZYcwoOgCEeyrdOCi8Lg5_g" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_ZYi3QOgCEeyrdOCi8Lg5_g" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_VYptsOgXEeylOIr2X-lFjw" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_VYqUwOgXEeylOIr2X-lFjw" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_VYxCcOgXEeylOIr2X-lFjw" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_5xFtEegcEey6PfYDKKVB7A" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_5xGUIOgcEey6PfYDKKVB7A" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_5xLzsOgcEey6PfYDKKVB7A" name="LegacyStyledElement"/>
+      <visibility xmi:id="_Mdr4TeffEeyhVr8NbeV_Xw" label="-"/>
+      <cardinality xmi:id="_Mdr4TuffEeyhVr8NbeV_Xw" label="1" max="1" min="1"/>
+      <type xmi:id="_Mdr4T-ffEeyhVr8NbeV_Xw" name="Cliente">
+        <modelElement href="Reservas%20Tienda.uml#_Jb3tEOffEeyhVr8NbeV_Xw"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_Mdr4UOffEeyhVr8NbeV_Xw" comments="_MdfrBOffEeyhVr8NbeV_Xw" targetConnectionVisual="_MdpcAOffEeyhVr8NbeV_Xw" name="getCliente">
+      <modelElement href="Reservas%20Tienda.uml#_JcAP8effEeyhVr8NbeV_Xw"/>
+      <visibility xmi:id="_Mdr4UeffEeyhVr8NbeV_Xw" label="+"/>
+      <cardinality xmi:id="_Mdr4UuffEeyhVr8NbeV_Xw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_Mdr4U-ffEeyhVr8NbeV_Xw">
+        <modelElement href="Reservas%20Tienda.uml#_Jc95R-ffEeyhVr8NbeV_Xw"/>
+        <type xmi:id="_Mdr4VOffEeyhVr8NbeV_Xw" name="Cliente">
+          <modelElement href="Reservas%20Tienda.uml#_Jb3tEOffEeyhVr8NbeV_Xw"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_Mdr4VeffEeyhVr8NbeV_Xw" comments="_MdqqIOffEeyhVr8NbeV_Xw" targetConnectionVisual="_MdqqIeffEeyhVr8NbeV_Xw" name="Reserva">
+      <modelElement href="Reservas%20Tienda.uml#_Jc95QeffEeyhVr8NbeV_Xw"/>
+      <keywords xmi:id="_Mdr4VuffEeyhVr8NbeV_Xw" keyword="create"/>
+      <visibility xmi:id="_Mdr4V-ffEeyhVr8NbeV_Xw" label="+"/>
+      <cardinality xmi:id="_Mdr4WOffEeyhVr8NbeV_Xw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_Mdr4WeffEeyhVr8NbeV_Xw">
+        <modelElement href="Reservas%20Tienda.uml#_Jc95RuffEeyhVr8NbeV_Xw"/>
+        <type xmi:id="_Mdr4WuffEeyhVr8NbeV_Xw" name="Reserva">
+          <modelElement href="Reservas%20Tienda.uml#_JcAP8OffEeyhVr8NbeV_Xw"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_Mdr4W-ffEeyhVr8NbeV_Xw" name="unidades">
+        <modelElement href="Reservas%20Tienda.uml#_Jc95QuffEeyhVr8NbeV_Xw"/>
+        <cardinality xmi:id="_Mdr4XOffEeyhVr8NbeV_Xw" label="1" max="1" min="1"/>
+        <type xmi:id="_Mdr4XeffEeyhVr8NbeV_Xw" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_Mdr4XuffEeyhVr8NbeV_Xw" name="cliente">
+        <modelElement href="Reservas%20Tienda.uml#_Jc95Q-ffEeyhVr8NbeV_Xw"/>
+        <cardinality xmi:id="_Mdr4X-ffEeyhVr8NbeV_Xw" label="1" max="1" min="1"/>
+        <type xmi:id="_Mdr4YOffEeyhVr8NbeV_Xw" name="Cliente">
+          <modelElement href="Reservas%20Tienda.uml#_Jb3tEOffEeyhVr8NbeV_Xw"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_MUzpEuffEeyhVr8NbeV_Xw" comments="_MUjKYOffEeyhVr8NbeV_Xw" targetConnectionVisual="_MUmNsOffEeyhVr8NbeV_Xw" name="ClientePremium" generalizations="_MUSEoOffEeyhVr8NbeV_Xw">
+    <modelElement href="Reservas%20Tienda.uml#_Jb5iR-ffEeyhVr8NbeV_Xw"/>
+    <visualProperties xmi:id="_MUzpE-ffEeyhVr8NbeV_Xw" position="1566.0,1186.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_MUzpFOffEeyhVr8NbeV_Xw" label="+"/>
+    <attributes xmi:id="_MUzpFeffEeyhVr8NbeV_Xw" name="descuento">
+      <modelElement href="Reservas%20Tienda.uml#_JdDY1effEeyhVr8NbeV_Xw"/>
+      <stereotypes xmi:id="_MUzpFuffEeyhVr8NbeV_Xw" name="LegacyStyledElement">
+        <modelElement href="Reservas%20Tienda.uml#_JdDY1uffEeyhVr8NbeV_Xw"/>
+      </stereotypes>
+      <visibility xmi:id="_MUzpF-ffEeyhVr8NbeV_Xw" label="+"/>
+      <cardinality xmi:id="_MUzpGOffEeyhVr8NbeV_Xw" label="1" max="1" min="1"/>
+      <type xmi:id="_MUzpGeffEeyhVr8NbeV_Xw" name="double">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_MUzpGuffEeyhVr8NbeV_Xw" comments="_MUm0wOffEeyhVr8NbeV_Xw" targetConnectionVisual="_MUvXoOffEeyhVr8NbeV_Xw" name="ClientePremium">
+      <modelElement href="Reservas%20Tienda.uml#_Jb6JUOffEeyhVr8NbeV_Xw"/>
+      <keywords xmi:id="_MUzpG-ffEeyhVr8NbeV_Xw" keyword="create"/>
+      <visibility xmi:id="_MUzpHOffEeyhVr8NbeV_Xw" label="+"/>
+      <cardinality xmi:id="_MUzpHeffEeyhVr8NbeV_Xw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_MUzpHuffEeyhVr8NbeV_Xw">
+        <modelElement href="Reservas%20Tienda.uml#_Jb6JVuffEeyhVr8NbeV_Xw"/>
+        <type xmi:id="_MUzpH-ffEeyhVr8NbeV_Xw" name="ClientePremium">
+          <modelElement href="Reservas%20Tienda.uml#_Jb5iR-ffEeyhVr8NbeV_Xw"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_MUzpIOffEeyhVr8NbeV_Xw" name="nombre">
+        <modelElement href="Reservas%20Tienda.uml#_Jb6JUeffEeyhVr8NbeV_Xw"/>
+        <cardinality xmi:id="_MUzpIeffEeyhVr8NbeV_Xw" label="1" max="1" min="1"/>
+        <type xmi:id="_MUzpIuffEeyhVr8NbeV_Xw" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_MUzpI-ffEeyhVr8NbeV_Xw" name="dni">
+        <modelElement href="Reservas%20Tienda.uml#_Jb6JUuffEeyhVr8NbeV_Xw"/>
+        <cardinality xmi:id="_MUzpJOffEeyhVr8NbeV_Xw" label="1" max="1" min="1"/>
+        <type xmi:id="_MUzpJeffEeyhVr8NbeV_Xw" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_MUzpJuffEeyhVr8NbeV_Xw" name="descuento">
+        <modelElement href="Reservas%20Tienda.uml#_Jb6JU-ffEeyhVr8NbeV_Xw"/>
+        <cardinality xmi:id="_MUzpJ-ffEeyhVr8NbeV_Xw" label="1" max="1" min="1"/>
+        <type xmi:id="_MUzpKOffEeyhVr8NbeV_Xw" name="double">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_MUzpKeffEeyhVr8NbeV_Xw" comments="_MUv-sOffEeyhVr8NbeV_Xw" targetConnectionVisual="_MUzCAOffEeyhVr8NbeV_Xw" name="getNombre">
+      <modelElement href="Reservas%20Tienda.uml#_Jb6JV-ffEeyhVr8NbeV_Xw"/>
+      <visibility xmi:id="_MUzpKuffEeyhVr8NbeV_Xw" label="+"/>
+      <cardinality xmi:id="_MUzpK-ffEeyhVr8NbeV_Xw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_MUzpLOffEeyhVr8NbeV_Xw">
+        <modelElement href="Reservas%20Tienda.uml#_Jb6JWOffEeyhVr8NbeV_Xw"/>
+        <type xmi:id="_MUzpLeffEeyhVr8NbeV_Xw" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_MUzpLuffEeyhVr8NbeV_Xw" comments="_MUzpEOffEeyhVr8NbeV_Xw" targetConnectionVisual="_MUzpEeffEeyhVr8NbeV_Xw" name="getDni">
+      <modelElement href="Reservas%20Tienda.uml#_Jb6JWeffEeyhVr8NbeV_Xw"/>
+      <visibility xmi:id="_MUzpL-ffEeyhVr8NbeV_Xw" label="+"/>
+      <cardinality xmi:id="_MUzpMOffEeyhVr8NbeV_Xw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_MUzpMeffEeyhVr8NbeV_Xw">
+        <modelElement href="Reservas%20Tienda.uml#_Jb6JWuffEeyhVr8NbeV_Xw"/>
+        <type xmi:id="_MUzpMuffEeyhVr8NbeV_Xw" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_Mg158OffEeyhVr8NbeV_Xw" name="ReservaOnline" generalizations="_MfhrUOffEeyhVr8NbeV_Xw">
+    <modelElement href="Reservas%20Tienda.uml#_JcBeEOffEeyhVr8NbeV_Xw"/>
+    <visualProperties xmi:id="_Mg158effEeyhVr8NbeV_Xw" position="1361.0,980.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_Mg158uffEeyhVr8NbeV_Xw" label="+"/>
+    <attributes xmi:id="_Mg158-ffEeyhVr8NbeV_Xw" name="direccion">
+      <modelElement href="Reservas%20Tienda.uml#_JdF1FOffEeyhVr8NbeV_Xw"/>
+      <visibility xmi:id="_Mg159OffEeyhVr8NbeV_Xw" label="+"/>
+      <cardinality xmi:id="_Mg159effEeyhVr8NbeV_Xw" label="1" max="1" min="1"/>
+      <type xmi:id="_Mg159uffEeyhVr8NbeV_Xw" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_Mg159-ffEeyhVr8NbeV_Xw" name="gastosEnvio">
+      <modelElement href="Reservas%20Tienda.uml#_JdF1FeffEeyhVr8NbeV_Xw"/>
+      <visibility xmi:id="_Mg15-OffEeyhVr8NbeV_Xw" label="+"/>
+      <cardinality xmi:id="_Mg15-effEeyhVr8NbeV_Xw" label="1" max="1" min="1"/>
+      <type xmi:id="_Mg15-uffEeyhVr8NbeV_Xw" name="double">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_Mg15--ffEeyhVr8NbeV_Xw" comments="_MgTucOffEeyhVr8NbeV_Xw" targetConnectionVisual="_MgmpYOffEeyhVr8NbeV_Xw" name="getUnidades">
+      <modelElement href="Reservas%20Tienda.uml#_JcBeEeffEeyhVr8NbeV_Xw"/>
+      <visibility xmi:id="_Mg15_OffEeyhVr8NbeV_Xw" label="+"/>
+      <cardinality xmi:id="_Mg15_effEeyhVr8NbeV_Xw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_Mg15_uffEeyhVr8NbeV_Xw">
+        <modelElement href="Reservas%20Tienda.uml#_JcBeEuffEeyhVr8NbeV_Xw"/>
+        <type xmi:id="_Mg15_-ffEeyhVr8NbeV_Xw" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_Mg16AOffEeyhVr8NbeV_Xw" comments="_Mgn3gOffEeyhVr8NbeV_Xw" targetConnectionVisual="_MgoekOffEeyhVr8NbeV_Xw" name="getCliente">
+      <modelElement href="Reservas%20Tienda.uml#_JcBeE-ffEeyhVr8NbeV_Xw"/>
+      <visibility xmi:id="_Mg16AeffEeyhVr8NbeV_Xw" label="+"/>
+      <cardinality xmi:id="_Mg16AuffEeyhVr8NbeV_Xw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_Mg16A-ffEeyhVr8NbeV_Xw">
+        <modelElement href="Reservas%20Tienda.uml#_Jc-gWuffEeyhVr8NbeV_Xw"/>
+        <type xmi:id="_Mg16BOffEeyhVr8NbeV_Xw" name="Cliente">
+          <modelElement href="Reservas%20Tienda.uml#_Jb3tEOffEeyhVr8NbeV_Xw"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_Mg16BeffEeyhVr8NbeV_Xw" comments="_MgoekeffEeyhVr8NbeV_Xw" targetConnectionVisual="_MgoekuffEeyhVr8NbeV_Xw" name="ReservaOnline">
+      <modelElement href="Reservas%20Tienda.uml#_Jc-gUuffEeyhVr8NbeV_Xw"/>
+      <keywords xmi:id="_Mg16BuffEeyhVr8NbeV_Xw" keyword="create"/>
+      <visibility xmi:id="_Mg16B-ffEeyhVr8NbeV_Xw" label="+"/>
+      <cardinality xmi:id="_Mg16COffEeyhVr8NbeV_Xw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_Mg16CeffEeyhVr8NbeV_Xw">
+        <modelElement href="Reservas%20Tienda.uml#_Jc-gWeffEeyhVr8NbeV_Xw"/>
+        <type xmi:id="_Mg16CuffEeyhVr8NbeV_Xw" name="ReservaOnline">
+          <modelElement href="Reservas%20Tienda.uml#_JcBeEOffEeyhVr8NbeV_Xw"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_Mg16C-ffEeyhVr8NbeV_Xw" name="unidades">
+        <modelElement href="Reservas%20Tienda.uml#_Jc-gU-ffEeyhVr8NbeV_Xw"/>
+        <cardinality xmi:id="_Mg16DOffEeyhVr8NbeV_Xw" label="1" max="1" min="1"/>
+        <type xmi:id="_Mg16DeffEeyhVr8NbeV_Xw" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_Mg16DuffEeyhVr8NbeV_Xw" name="cliente">
+        <modelElement href="Reservas%20Tienda.uml#_Jc-gVOffEeyhVr8NbeV_Xw"/>
+        <cardinality xmi:id="_Mg16D-ffEeyhVr8NbeV_Xw" label="1" max="1" min="1"/>
+        <type xmi:id="_Mg16EOffEeyhVr8NbeV_Xw" name="Cliente">
+          <modelElement href="Reservas%20Tienda.uml#_Jb3tEOffEeyhVr8NbeV_Xw"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_Mg16EeffEeyhVr8NbeV_Xw" name="direccion">
+        <modelElement href="Reservas%20Tienda.uml#_Jc-gVeffEeyhVr8NbeV_Xw"/>
+        <cardinality xmi:id="_Mg16EuffEeyhVr8NbeV_Xw" label="1" max="1" min="1"/>
+        <type xmi:id="_Mg16E-ffEeyhVr8NbeV_Xw" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_Mg16FOffEeyhVr8NbeV_Xw" name="gastosEnvio">
+        <modelElement href="Reservas%20Tienda.uml#_Jc-gVuffEeyhVr8NbeV_Xw"/>
+        <cardinality xmi:id="_Mg16FeffEeyhVr8NbeV_Xw" label="1" max="1" min="1"/>
+        <type xmi:id="_Mg16FuffEeyhVr8NbeV_Xw" name="double">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_Me6AQ-ffEeyhVr8NbeV_Xw" name="ReservaEnTienda" generalizations="_MeCdkOffEeyhVr8NbeV_Xw">
+    <modelElement href="Reservas%20Tienda.uml#_JcA3AOffEeyhVr8NbeV_Xw"/>
+    <visualProperties xmi:id="_Me6AROffEeyhVr8NbeV_Xw" position="2137.0,979.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_Me6AReffEeyhVr8NbeV_Xw" label="+"/>
+    <operations xmi:id="_Me6ARuffEeyhVr8NbeV_Xw" comments="_Mel3MOffEeyhVr8NbeV_Xw" targetConnectionVisual="_Me4yIOffEeyhVr8NbeV_Xw" name="getUnidades">
+      <modelElement href="Reservas%20Tienda.uml#_JcA3AeffEeyhVr8NbeV_Xw"/>
+      <visibility xmi:id="_Me6AR-ffEeyhVr8NbeV_Xw" label="+"/>
+      <cardinality xmi:id="_Me6ASOffEeyhVr8NbeV_Xw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_Me6ASeffEeyhVr8NbeV_Xw">
+        <modelElement href="Reservas%20Tienda.uml#_JcA3AuffEeyhVr8NbeV_Xw"/>
+        <type xmi:id="_Me6ASuffEeyhVr8NbeV_Xw" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_Me6AS-ffEeyhVr8NbeV_Xw" comments="_Me5ZMOffEeyhVr8NbeV_Xw" targetConnectionVisual="_Me6AQOffEeyhVr8NbeV_Xw" name="getCliente">
+      <modelElement href="Reservas%20Tienda.uml#_JcA3A-ffEeyhVr8NbeV_Xw"/>
+      <visibility xmi:id="_Me6ATOffEeyhVr8NbeV_Xw" label="+"/>
+      <cardinality xmi:id="_Me6ATeffEeyhVr8NbeV_Xw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_Me6ATuffEeyhVr8NbeV_Xw">
+        <modelElement href="Reservas%20Tienda.uml#_Jc-gUOffEeyhVr8NbeV_Xw"/>
+        <type xmi:id="_Me6AT-ffEeyhVr8NbeV_Xw" name="Cliente">
+          <modelElement href="Reservas%20Tienda.uml#_Jb3tEOffEeyhVr8NbeV_Xw"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_Me6AUOffEeyhVr8NbeV_Xw" comments="_Me6AQeffEeyhVr8NbeV_Xw" targetConnectionVisual="_Me6AQuffEeyhVr8NbeV_Xw" name="ReservaEnTienda">
+      <modelElement href="Reservas%20Tienda.uml#_Jc95SOffEeyhVr8NbeV_Xw"/>
+      <keywords xmi:id="_Me6AUeffEeyhVr8NbeV_Xw" keyword="create"/>
+      <visibility xmi:id="_Me6AUuffEeyhVr8NbeV_Xw" label="+"/>
+      <cardinality xmi:id="_Me6AU-ffEeyhVr8NbeV_Xw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_Me6AVOffEeyhVr8NbeV_Xw">
+        <modelElement href="Reservas%20Tienda.uml#_Jc95TeffEeyhVr8NbeV_Xw"/>
+        <type xmi:id="_Me6AVeffEeyhVr8NbeV_Xw" name="ReservaEnTienda">
+          <modelElement href="Reservas%20Tienda.uml#_JcA3AOffEeyhVr8NbeV_Xw"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_Me6AVuffEeyhVr8NbeV_Xw" name="unidades">
+        <modelElement href="Reservas%20Tienda.uml#_Jc95SeffEeyhVr8NbeV_Xw"/>
+        <cardinality xmi:id="_Me6AV-ffEeyhVr8NbeV_Xw" label="1" max="1" min="1"/>
+        <type xmi:id="_Me6AWOffEeyhVr8NbeV_Xw" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_Me6AWeffEeyhVr8NbeV_Xw" name="cliente">
+        <modelElement href="Reservas%20Tienda.uml#_Jc95SuffEeyhVr8NbeV_Xw"/>
+        <cardinality xmi:id="_Me6AWuffEeyhVr8NbeV_Xw" label="1" max="1" min="1"/>
+        <type xmi:id="_Me6AW-ffEeyhVr8NbeV_Xw" name="Cliente">
+          <modelElement href="Reservas%20Tienda.uml#_Jb3tEOffEeyhVr8NbeV_Xw"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_MmvGkOffEeyhVr8NbeV_Xw" comments="_POGoQOgdEey6PfYDKKVB7A" targetConnectionVisual="_POHPUOgdEey6PfYDKKVB7A" name="ProductoNoExiste">
+    <modelElement href="Reservas%20Tienda.uml#_JcDTSeffEeyhVr8NbeV_Xw"/>
+    <visualProperties xmi:id="_MmvGkeffEeyhVr8NbeV_Xw" position="789.0,371.0" size="-1.0,-1.0"/>
+    <stereotypes xmi:id="_MmvGkuffEeyhVr8NbeV_Xw" name="LegacyStyledElement">
+      <modelElement href="Reservas%20Tienda.uml#_JcD6UOffEeyhVr8NbeV_Xw"/>
+    </stereotypes>
+    <stereotypes xmi:id="_MmvGk-ffEeyhVr8NbeV_Xw" name="Annotations">
+      <modelElement href="Reservas%20Tienda.uml#_JcD6UeffEeyhVr8NbeV_Xw"/>
+    </stereotypes>
+    <visibility xmi:id="_MmvGlOffEeyhVr8NbeV_Xw" label="+"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_MlM1gOffEeyhVr8NbeV_Xw" comments="_POBvwOgdEey6PfYDKKVB7A" targetConnectionVisual="_POC94OgdEey6PfYDKKVB7A" name="ClienteNoExiste">
+    <modelElement href="Reservas%20Tienda.uml#_JcDTROffEeyhVr8NbeV_Xw"/>
+    <visualProperties xmi:id="_MlM1geffEeyhVr8NbeV_Xw" position="1213.0,371.0" size="-1.0,-1.0"/>
+    <stereotypes xmi:id="_MlM1guffEeyhVr8NbeV_Xw" name="LegacyStyledElement">
+      <modelElement href="Reservas%20Tienda.uml#_JcDTReffEeyhVr8NbeV_Xw"/>
+    </stereotypes>
+    <stereotypes xmi:id="_MlM1g-ffEeyhVr8NbeV_Xw" name="Annotations">
+      <modelElement href="Reservas%20Tienda.uml#_JcDTRuffEeyhVr8NbeV_Xw"/>
+    </stereotypes>
+    <visibility xmi:id="_MlM1hOffEeyhVr8NbeV_Xw" label="+"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_MjrykOffEeyhVr8NbeV_Xw" comments="_PNpVQOgdEey6PfYDKKVB7A" targetConnectionVisual="_PN5M4OgdEey6PfYDKKVB7A" name="ClienteYaExiste">
+    <modelElement href="Reservas%20Tienda.uml#_JcCsMeffEeyhVr8NbeV_Xw"/>
+    <visualProperties xmi:id="_MjrykeffEeyhVr8NbeV_Xw" position="1007.0,371.0" size="-1.0,-1.0"/>
+    <stereotypes xmi:id="_MjrykuffEeyhVr8NbeV_Xw" name="LegacyStyledElement">
+      <modelElement href="Reservas%20Tienda.uml#_JcDTQOffEeyhVr8NbeV_Xw"/>
+    </stereotypes>
+    <stereotypes xmi:id="_Mjryk-ffEeyhVr8NbeV_Xw" name="Annotations">
+      <modelElement href="Reservas%20Tienda.uml#_JcDTQeffEeyhVr8NbeV_Xw"/>
+    </stereotypes>
+    <visibility xmi:id="_MjrylOffEeyhVr8NbeV_Xw" label="+"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_PMQ1MOgdEey6PfYDKKVB7A" sourceConnectionVisual="_PMVGoOgdEey6PfYDKKVB7A" text="Clase que representa una tienda que oferta una serie de productos.&#xA;La clase gestiona el stock de cada producto y las reservas que los clientes&#xA;pueden realizar cuando el stock actual disponible de un producto no es &#xA;suficiente para suplir su demanda. &#xA;&#xA;@author &#xA;@version &#xA; *" item="_MiKIlOffEeyhVr8NbeV_Xw">
+    <modelElement href="Reservas%20Tienda.uml#_PL0JQOgdEey6PfYDKKVB7A"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_PMgs0OgdEey6PfYDKKVB7A" sourceConnectionVisual="_PMhT4OgdEey6PfYDKKVB7A" text="Busca un cliente en la lista de clientes de la tienda.&#xA;&#x9; * @param cliente cliente que se desea buscar.&#xA;&#x9; * @return true si lo ha encontrado o false en caso contrario" item="_MiKIouffEeyhVr8NbeV_Xw">
+    <modelElement href="Reservas%20Tienda.uml#_PL0wV-gdEey6PfYDKKVB7A"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_PMllUOgdEey6PfYDKKVB7A" sourceConnectionVisual="_PMmzcOgdEey6PfYDKKVB7A" text="Actualiza el stock de un producto.&#xA;&#x9; * @param idProducto Identificador del producto cuyo stock se actualiza.&#xA;&#x9; * @param cantidad Numero de unidades en que se actualiza el stock.&#xA;&#x9; * @return Lista de reservas del producto que se han suplido con el&#xA;&#x9; * nuevo stock.&#xA;&#x9; * @throws ProductoNoExiste Cuando idProducto no corresponde a ningun&#xA;&#x9; * producto de la tienda." item="_MiKIquffEeyhVr8NbeV_Xw">
+    <modelElement href="Reservas%20Tienda.uml#_PL0wWOgdEey6PfYDKKVB7A"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_PMvWUOgdEey6PfYDKKVB7A" sourceConnectionVisual="_PMxLgOgdEey6PfYDKKVB7A" text="Realiza una venta de un producto.&#xA;&#x9; * @param idProducto Identificador del producto cuyo stock se actualiza.&#xA;&#x9; * @param dniCliente DNI del cliente que realiza la compra.&#xA;&#x9; * @param cantidad Numero de unidades en que se actualiza el stock&#xA;&#x9; * @return true si se ha realizado la venta (habia stock suficiente).&#xA;&#x9; * &#x9;       false si se ha generado una reserva (no habia stock suficiente).&#xA;&#x9; * @throws ClienteNoExiste Cuando dniCliente no corresponde a ningun&#xA;&#x9; * cliente registrado.&#xA;&#x9; * @throws ProductoNoExiste Cuando idProducto no corresponde a ningun&#xA;&#x9; * producto de la tienda." item="_MiKIteffEeyhVr8NbeV_Xw">
+    <modelElement href="Reservas%20Tienda.uml#_PL0wWegdEey6PfYDKKVB7A"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_PM3SIOgdEey6PfYDKKVB7A" sourceConnectionVisual="_PM35MOgdEey6PfYDKKVB7A" text="Retorna una lista con aquellos productos que tienen reservas pendientes.&#xA;&#x9; * @return Lista de productos con reservas." item="_MiKIw-ffEeyhVr8NbeV_Xw">
+    <modelElement href="Reservas%20Tienda.uml#_PL0wWugdEey6PfYDKKVB7A"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_PNQTsOgdEey6PfYDKKVB7A" sourceConnectionVisual="_PNQ6wOgdEey6PfYDKKVB7A" text="Aplica una rebaja del 10% al producto indicado en la oferta&#xA;&#x9; * @return String listadoProductos" item="_MiKIyOffEeyhVr8NbeV_Xw">
+    <modelElement href="Reservas%20Tienda.uml#_PL1XYugdEey6PfYDKKVB7A"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_PNT-EOgdEey6PfYDKKVB7A" sourceConnectionVisual="_PNT-EegdEey6PfYDKKVB7A" text="Anhade un nuevo producto a la tienda.&#xA;&#x9; * @param producto Producto.&#xA;&#x9; * @return Identificador del producto." item="_MiKIzeffEeyhVr8NbeV_Xw">
+    <modelElement href="Reservas%20Tienda.uml#_PL0wVegdEey6PfYDKKVB7A"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_PNXocOgdEey6PfYDKKVB7A" sourceConnectionVisual="_PNYPgOgdEey6PfYDKKVB7A" text="Registra un nuevo cliente en la tienda.&#xA;&#x9; * @param cliente Nuevo cliente.&#xA;&#x9; * @throws ClienteYaExiste si ya existe un cliente con ese DNI." item="_MiKI1effEeyhVr8NbeV_Xw">
+    <modelElement href="Reservas%20Tienda.uml#_PL0wVugdEey6PfYDKKVB7A"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_PNcg8OgdEey6PfYDKKVB7A" sourceConnectionVisual="_PNdIAOgdEey6PfYDKKVB7A" text="La tienda recibe una lista de productos provenientes de su proveedor.&#xA;&#x9; * @return Lista de productos añadidos a la tienda" item="_MiKI2-ffEeyhVr8NbeV_Xw">
+    <modelElement href="Reservas%20Tienda.uml#_PL1XYOgdEey6PfYDKKVB7A"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_PNinkOgdEey6PfYDKKVB7A" sourceConnectionVisual="_PNlD0OgdEey6PfYDKKVB7A" text="Aplica una rebaja del 10% al producto indicado en la oferta&#xA;&#x9; * @param Oferta o&#xA;&#x9; * @parqam int codigoProducto" item="_MiKI4-ffEeyhVr8NbeV_Xw">
+    <modelElement href="Reservas%20Tienda.uml#_PL1XYegdEey6PfYDKKVB7A"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_PNpVQOgdEey6PfYDKKVB7A" sourceConnectionVisual="_PN5M4OgdEey6PfYDKKVB7A" text="Excepcion utilizada para indicar que un cliente ya esta&#xA;&#x9; * registrado en la tienda" item="_MjrykOffEeyhVr8NbeV_Xw">
+    <modelElement href="Reservas%20Tienda.uml#_PL0JQegdEey6PfYDKKVB7A"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_POBvwOgdEey6PfYDKKVB7A" sourceConnectionVisual="_POC94OgdEey6PfYDKKVB7A" text="Excepcion utilizada para indicar que un cliente no esta&#xA;&#x9; * registrado en la tienda" item="_MlM1gOffEeyhVr8NbeV_Xw">
+    <modelElement href="Reservas%20Tienda.uml#_PL0wUegdEey6PfYDKKVB7A"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_POGoQOgdEey6PfYDKKVB7A" sourceConnectionVisual="_POHPUOgdEey6PfYDKKVB7A" text="Excepcion utilizada para indicar que un producto no es ofertado&#xA;&#x9; * por la tienda" item="_MmvGkOffEeyhVr8NbeV_Xw">
+    <modelElement href="Reservas%20Tienda.uml#_PL0wU-gdEey6PfYDKKVB7A"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_Pe75kOgdEey6PfYDKKVB7A" sourceConnectionVisual="_PfJU8OgdEey6PfYDKKVB7A" text="Proveedor de la tienda que envía productos de ropa&#xD;&#xA;@author&#xD;&#xA; *" item="_MbTSoOffEeyhVr8NbeV_Xw">
+    <modelElement href="Reservas%20Tienda.uml#_Pe6rcOgdEey6PfYDKKVB7A"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_PyJJcOgdEey6PfYDKKVB7A" sourceConnectionVisual="_PyJwgOgdEey6PfYDKKVB7A" text="Proveedor de la tienda que envía productos de oficina&#xD;&#xA;@author&#xD;&#xA; *" item="_MZ6yluffEeyhVr8NbeV_Xw">
+    <modelElement href="Reservas%20Tienda.uml#_PyIiYOgdEey6PfYDKKVB7A"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_QAgVkOgdEey6PfYDKKVB7A" sourceConnectionVisual="_QAhjsOgdEey6PfYDKKVB7A" text="Proveedor de la tienda&#xD;&#xA;@author &#xD;&#xA; *" item="_MX_f8OffEeyhVr8NbeV_Xw">
+    <modelElement href="Reservas%20Tienda.uml#_QAfugOgdEey6PfYDKKVB7A"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_QTlCkOgdEey6PfYDKKVB7A" sourceConnectionVisual="_QTlpoOgdEey6PfYDKKVB7A" text="Interfaz de ofertas de la tienda en productos de ropa&#xD;&#xA;@author&#xD;&#xA; *" item="_MW2QcOffEeyhVr8NbeV_Xw">
+    <modelElement href="Reservas%20Tienda.uml#_QTj0cOgdEey6PfYDKKVB7A"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_QnmKwegdEey6PfYDKKVB7A" sourceConnectionVisual="_QnnY4OgdEey6PfYDKKVB7A" text="Interfaz de ofertas de la tienda&#xD;&#xA;@author&#xD;&#xA; *" item="_MVsZ4OffEeyhVr8NbeV_Xw">
+    <modelElement href="Reservas%20Tienda.uml#_QnmKwOgdEey6PfYDKKVB7A"/>
+  </nodes>
+</com.yattasolutions.uml.diagrams.classifier:ClassDiagram>

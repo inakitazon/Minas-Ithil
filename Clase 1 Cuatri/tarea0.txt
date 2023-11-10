@@ -1,0 +1,19 @@
+contador 0 a 3 con T
+------------------------------------------
+Contador en este orden: 0,6,3,1,0,4,
+-----------------------------------------------------
+Diseñar el circuito para el control de dos farolas
+
+1. apagado el sistema
+2. se enciende la farola 2
+3. se apaga la 2 y se enciende la 1
+4. se encienden las dos.
+5. se vuelven a apagar.
+flip flop a eleccion
+-----------------------------------------------------
+
+Un programa que sume dos numeros, si el resultado es mayor de 10, sacar por pantalla "Kojima te vigila"
+
+Otro programa que coja dos numeros y los sume, coje otros dos numeros y los suma, divide el resultado de la primera suma entre la segunda, y a ese resultado se le mutiplica por un numero(este numero esta almacenado en uno de los registros)
+
+Un programa que coja el txto "Metal Gear" y cuenta el numero de letras que tiene

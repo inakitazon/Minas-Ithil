@@ -1,0 +1,19 @@
+JMP Prepare
+
+N1: DB 8
+N2: DB 5
+
+Prepare:
+
+ 
+ MOV A,[N1]
+ MOV B,[N2]
+ DEC B
+
+START:
+
+  ADD A,[N1]
+  DEC B
+  CMP B, C
+  JNZ START
+  HLT

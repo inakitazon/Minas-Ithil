@@ -1,0 +1,26 @@
+//www.plantuml.com/plantuml/png/RP11JiD034NtFeMNwO8BD0igiM5L8Se5p8nBB4tiAEE0u4vTSOHUZCaeQbgLvVp_FS_Vk-mq-jGdSF74-6GQnSMK4ZxWWHE7K5uO6MDvV50qW3e3iFtNRa6EpJDXH-yI3IV5G1ebaji6lMF5vd0-RG1n-yRAlUKrqCxgYyMg3fHfHC94-6bECwVwhnoiS9qASdOij_3LIMAymlRqRQEiaSSDIiPcRnMyD-nke-SJBPyFx1Ba_Ajp8nn62voj1TQuGEhsiBskI7Uy5YxjriCWSigCZLws69QkmTH59nhRnV2xOTOenuezYbAIdwBUtYQx3R0hkQbFVm00
+------------------------------------------------------------------------------------------------------
+@startuml
+title Conditional - Seleccion de delegado
+
+start
+
+:Seleccion de delegado;
+if(Ha habido un candidato) then (Sí)
+  :Tenemos candidato;
+  :Podemos pasar a la votacion;
+  :Recolecta de votos;
+while (Ha habido mayoria de votos?) is (No)
+  :No ha habido mayoría;
+  :Repetición del proceso;
+endwhile (Sí)
+
+:Ha habido una mayoria de votos;
+:Tenemos delegado;
+  else (no)
+  :No podemos continuar;
+  :No tenemos delegado;
+endif
+:Ha finalizado la votacion;
+stop
+@enduml

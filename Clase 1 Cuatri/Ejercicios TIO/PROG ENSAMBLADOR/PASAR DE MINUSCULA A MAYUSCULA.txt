@@ -1,0 +1,30 @@
+JMP start
+
+abuela: DB "kojima"
+	DB 0
+
+start:
+	MOV C,abuela
+	MOV D,232
+
+OPERACION:
+	MOV A,[C]
+	CMP A,[C]
+	JZ ASCI
+
+OPERACION2:
+	MOV [D],A
+	INC C
+	INC D
+	INC B
+	MOV B,0 
+	CMP B,[C]
+	JNZ OPERACION
+	HLT
+
+ASCI:
+	MOV B,32
+	SUB A,B
+	MOV [C],A
+	MOV [D],A
+	JMP OPERACION2

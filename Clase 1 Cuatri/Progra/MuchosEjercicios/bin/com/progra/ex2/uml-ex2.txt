@@ -1,0 +1,51 @@
+@startuml
+class CustomDate {
+- int day
+- int month
+- int year
++ String toString()
++ String format(String separator)
+}
+class Person {
+- String name
+- String surname
+- String address
+}
+class Appointment {
+~ Person owner
+~ Pet pet
+~ CustomDate date
+~ String time
+~ String reason
++ String getDate()
++ Pet getPet()
++ String getReason()
+}
+class VeterinaryClinic {
+~ List<Appointment> appointments
++ void addAppointment(Appointment)
++ void listAppointments()
++ void listAppointments(String date)
+}
+class Dog {
+}
+class Cat {
+}
+class Pet {
+~ String name
+~ String color
+~ int age
++ String getName()
+}
+
+
+Pet <|-- Dog
+Pet <|-- Cat
+
+VeterinaryClinic "1.*" o-- "*" Appointment
+
+Appointment --> Person : use
+Appointment --> Pet : use
+Appointment --> CustomDate : use
+
+@enduml

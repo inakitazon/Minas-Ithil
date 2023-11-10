@@ -1,0 +1,190 @@
+Programa hacer n!-n
+____________________________________________
+JMP Prepare
+
+N1: DB 5
+N2: DB 1
+Prepare:
+
+  MOV A,[N1]
+  CMP A,[N2]
+  JZ BUCE
+  MOV B, A
+  DEC B
+  MOV C,[N2]
+
+
+BUC:
+
+   MUL B
+   DEC B
+   CMP B,C
+   JNZ BUC
+   
+
+FIN:
+
+   SUB A, [N1]
+   MOV B, A
+
+   HLT
+
+BUCE:
+
+   MOV B, 0
+   HLT
+
+Cronometro 1 al 9 ciclico
+____________________________________________
+
+JMP Prepare
+
+N1: DB 1
+N2: DB 9
+
+Prepare:
+
+  MOV A,[N1]
+  ADD A,48
+  MOV [SP+1], A
+  MOV B, [N2]
+  ADD B,48
+
+CONT:
+
+   INC A
+   MOV [SP+1], A
+   CMP A, B
+   JNZ CONT
+   JMP Prepare
+   HLT
+
+Contador 99 al 0
+
+__________________________________________
+JMP Prepare
+
+N1: DB 9
+
+
+Prepare:
+
+  MOV A,[N1]
+  ADD A,48
+  MOV B,[N1]
+  ADD B,48
+  MOV [SP+1], A
+  MOV [SP+2], B
+  MOV C,48
+  JMP CONT
+
+
+
+
+CONT:
+ 
+   DEC A
+   MOV [SP+2],A
+   CMP A, C
+   JNZ CONT
+   CMP B, C
+   JZ FIN
+   MOV A,[N1]
+   ADD A,48
+   MOV [SP+2], A
+
+CONT2:
+
+   DEC B
+   MOV [SP+1], B
+   CMP B,C
+   JNZ CONT
+   CMP A,[N1]
+   JNZ CONT
+   
+FIN: 
+
+  HLT
+  
+Cronometro 00:00 ceunta atras
+
+_________________________________________
+
+JMP Prepare
+
+N1: DB 9
+N2: DB 5
+N3: DB 0
+MIN: DB 59
+SEC: DB 59
+Prepare:
+
+   MOV A,[N1]
+   ADD A,48
+   MOV B,[N2]
+   ADD B,48
+   MOV [SP+1], 48
+   MOV [SP+2], 48
+   MOV [SP+3], 58
+   MOV [SP+4], 48
+   MOV [SP+5], 48
+   ADD D,48
+Pcont:
+
+  MOV [SP+1],B
+  MOV [SP+2],A
+  MOV [SP+4],B
+  MOV [SP+5],A
+
+PCONT1:
+  MOV C, A
+  
+CONT1: 
+    
+    DEC C
+    MOV [SP+5], C
+    CMP C,D
+    JNZ CONT1
+    MOV C,[SP+4]
+    CMP C, D
+    JZ PCONT3
+    MOV [SP+5],A
+
+PCONT2:
+
+MOV C,[SP+4]
+
+CONT2:
+   
+    
+    DEC C
+    MOV [SP+4], C
+    CMP C, D
+    JNZ PCONT1
+    JMP PCONT1
+    
+ PCONT3:  
+
+   MOV C,[SP+2]
+
+
+CONT3: 
+
+   DEC C
+   MOV [SP+2], C
+   MOV [SP+4], B
+   MOV [SP+5], A
+   CMP C,D
+   JNZ PCONT1
+
+PCONT4:
+
+ MOV C,[SP+1]
+
+
+CONT4:
+
+  DEC C
+  MOV [SP+1], C
+  CMP C,D
+  JNZ PCONT1
